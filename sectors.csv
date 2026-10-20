@@ -1,0 +1,1592 @@
+id,year,quarter,state_name,gender,agriculture_sector,secondary_sector,tertiary_sector,state_code
+0,2019,April-June,Andhra Pradesh,Male,4.57,32.98,62.45,28
+1,2019,April-June,Assam,Male,5.91,24.7,69.38,18
+2,2019,April-June,Bihar,Male,7.24,25.24,67.53,10
+3,2019,April-June,Chhattisgarh,Male,7.59,34.28,58.14,22
+4,2019,April-June,Delhi,Male,0.32,30.21,69.46,7
+5,2019,April-June,Gujarat,Male,3.75,46.46,49.81,24
+6,2019,April-June,Haryana,Male,4.28,44.05,51.67,6
+7,2019,April-June,Himachal Pradesh,Male,3.36,38.39,58.25,2
+8,2019,April-June,Jammu And Kashmir,Male,3.28,27.99,68.72,1
+9,2019,April-June,Jharkhand,Male,2.96,40.29,56.76,20
+10,2019,April-June,Karnataka,Male,3.9,30.11,66,29
+11,2019,April-June,Kerala,Male,10.59,33.89,55.52,32
+12,2019,April-June,Madhya Pradesh,Male,7.11,29.99,62.89,23
+13,2019,April-June,Maharashtra,Male,2.99,32.54,64.45,27
+14,2019,April-June,Odisha,Male,5.03,31.85,63.1,21
+15,2019,April-June,Punjab,Male,3.48,41.95,54.57,3
+16,2019,April-June,Rajasthan,Male,5.89,33.21,60.9,8
+17,2019,April-June,Tamil Nadu,Male,5.05,36.73,58.21,33
+18,2019,April-June,Telangana,Male,3.04,30.38,66.56,36
+19,2019,April-June,Uttarakhand,Male,3.96,38.43,57.62,5
+20,2019,April-June,Uttar Pradesh,Male,6.55,34.02,59.45,9
+21,2019,April-June,West Bengal,Male,3.09,36.52,60.39,19
+22,2019,April-June,All-India,Male,4.58,34.61,60.8,99
+23,2019,April-June,Andhra Pradesh,Female,5.18,28.44,66.38,28
+24,2019,April-June,Assam,Female,2.15,6.27,91.57,18
+25,2019,April-June,Bihar,Female,8.88,10.58,80.56,10
+26,2019,April-June,Chhattisgarh,Female,8.51,13.78,77.72,22
+27,2019,April-June,Delhi,Female,,21.37,78.63,7
+28,2019,April-June,Gujarat,Female,10.22,37.25,52.52,24
+29,2019,April-June,Haryana,Female,2.62,23.63,73.75,6
+30,2019,April-June,Himachal Pradesh,Female,27.39,24.69,47.91,2
+31,2019,April-June,Jammu And Kashmir,Female,14.8,22.5,62.68,1
+32,2019,April-June,Jharkhand,Female,7.74,21.55,70.7,20
+33,2019,April-June,Karnataka,Female,4.82,28.96,66.21,29
+34,2019,April-June,Kerala,Female,7.55,22.11,70.33,32
+35,2019,April-June,Madhya Pradesh,Female,9.37,27.95,62.68,23
+36,2019,April-June,Maharashtra,Female,3.64,21.14,75.22,27
+37,2019,April-June,Odisha,Female,4.62,33.5,61.87,21
+38,2019,April-June,Punjab,Female,3.15,29.87,66.99,3
+39,2019,April-June,Rajasthan,Female,19.42,23.29,57.32,8
+40,2019,April-June,Tamil Nadu,Female,8.53,31.22,60.25,33
+41,2019,April-June,Telangana,Female,2.24,32.93,64.83,36
+42,2019,April-June,Uttarakhand,Female,6.01,20.87,73.12,5
+43,2019,April-June,Uttar Pradesh,Female,10.4,27.36,62.24,9
+44,2019,April-June,West Bengal,Female,1.25,32.89,65.85,19
+45,2019,April-June,All-India,Female,6.12,27.29,66.59,99
+46,2019,April-June,Andhra Pradesh,Person,4.72,31.85,63.43,28
+47,2019,April-June,Assam,Person,5.39,22.16,72.45,18
+48,2019,April-June,Bihar,Person,7.38,23.99,68.64,10
+49,2019,April-June,Chhattisgarh,Person,7.79,29.76,62.45,22
+50,2019,April-June,Delhi,Person,0.26,28.73,71.01,7
+51,2019,April-June,Gujarat,Person,4.83,44.93,50.26,24
+52,2019,April-June,Haryana,Person,3.99,40.51,55.49,6
+53,2019,April-June,Himachal Pradesh,Person,8.73,35.33,55.94,2
+54,2019,April-June,Jammu And Kashmir,Person,5.04,27.16,67.81,1
+55,2019,April-June,Jharkhand,Person,3.64,37.64,58.72,20
+56,2019,April-June,Karnataka,Person,4.08,29.88,66.04,29
+57,2019,April-June,Kerala,Person,9.76,30.66,59.58,32
+58,2019,April-June,Madhya Pradesh,Person,7.49,29.65,62.88,23
+59,2019,April-June,Maharashtra,Person,3.13,30.14,66.73,27
+60,2019,April-June,Odisha,Person,4.95,32.17,62.86,21
+61,2019,April-June,Punjab,Person,3.42,39.87,56.71,3
+62,2019,April-June,Rajasthan,Person,8.06,31.6,60.33,8
+63,2019,April-June,Tamil Nadu,Person,5.98,35.26,58.77,33
+64,2019,April-June,Telangana,Person,2.87,30.95,66.21,36
+65,2019,April-June,Uttarakhand,Person,4.22,36.24,59.54,5
+66,2019,April-June,Uttar Pradesh,Person,6.97,33.3,59.73,9
+67,2019,April-June,West Bengal,Person,2.64,35.64,61.7,19
+68,2019,April-June,All-India,Person,4.89,33.18,61.95,99
+69,2019,July-September,Andhra Pradesh,Male,5.46,33.87,60.66,28
+70,2019,July-September,Assam,Male,7.91,28,64.1,18
+71,2019,July-September,Bihar,Male,7.24,24.08,68.7,10
+72,2019,July-September,Chhattisgarh,Male,9.07,34.68,56.24,22
+73,2019,July-September,Delhi,Male,,31.86,68.13,7
+74,2019,July-September,Gujarat,Male,4.27,44.31,51.44,24
+75,2019,July-September,Haryana,Male,4.88,47.06,48.07,6
+76,2019,July-September,Himachal Pradesh,Male,2.22,36.89,60.89,2
+77,2019,July-September,Jammu And Kashmir,Male,3.26,27.09,69.63,1
+78,2019,July-September,Jharkhand,Male,4.15,42.63,53.23,20
+79,2019,July-September,Karnataka,Male,4.11,28.86,67.05,29
+80,2019,July-September,Kerala,Male,11.64,33.68,54.67,32
+81,2019,July-September,Madhya Pradesh,Male,8.24,28.7,63.05,23
+82,2019,July-September,Maharashtra,Male,2.77,31.9,65.32,27
+83,2019,July-September,Odisha,Male,4.82,30.42,64.75,21
+84,2019,July-September,Punjab,Male,3.38,37.72,58.9,3
+85,2019,July-September,Rajasthan,Male,4.25,34.23,61.52,8
+86,2019,July-September,Tamil Nadu,Male,5.38,34.74,59.88,33
+87,2019,July-September,Telangana,Male,2.53,31.75,65.71,36
+88,2019,July-September,Uttarakhand,Male,2.9,37.97,59.13,5
+89,2019,July-September,Uttar Pradesh,Male,6.2,34.51,59.28,9
+90,2019,July-September,West Bengal,Male,3,35.5,61.51,19
+91,2019,July-September,All-India,Male,4.67,34.17,61.17,99
+92,2019,July-September,Andhra Pradesh,Female,9.31,25.46,65.21,28
+93,2019,July-September,Assam,Female,0.7,13.56,85.73,18
+94,2019,July-September,Bihar,Female,6.81,8.67,84.5,10
+95,2019,July-September,Chhattisgarh,Female,16.24,14.81,68.94,22
+96,2019,July-September,Delhi,Female,,22.33,77.68,7
+97,2019,July-September,Gujarat,Female,10.43,34.4,55.14,24
+98,2019,July-September,Haryana,Female,6.35,27.8,65.86,6
+99,2019,July-September,Himachal Pradesh,Female,13.68,27.96,58.36,2
+100,2019,July-September,Jammu And Kashmir,Female,10.36,27.27,62.37,1
+101,2019,July-September,Jharkhand,Female,9.91,33.38,56.71,20
+102,2019,July-September,Karnataka,Female,4.44,27.66,67.9,29
+103,2019,July-September,Kerala,Female,9.25,19.48,71.27,32
+104,2019,July-September,Madhya Pradesh,Female,11.39,27.57,61.04,23
+105,2019,July-September,Maharashtra,Female,3.17,24.04,72.8,27
+106,2019,July-September,Odisha,Female,4,21.43,74.56,21
+107,2019,July-September,Punjab,Female,1.82,24.28,73.9,3
+108,2019,July-September,Rajasthan,Female,16.41,28.61,54.98,8
+109,2019,July-September,Tamil Nadu,Female,8.41,36.39,55.2,33
+110,2019,July-September,Telangana,Female,5.75,30.25,64.02,36
+111,2019,July-September,Uttarakhand,Female,2.34,19.56,78.1,5
+112,2019,July-September,Uttar Pradesh,Female,15.77,24.32,59.89,9
+113,2019,July-September,West Bengal,Female,1.38,32.89,65.74,19
+114,2019,July-September,All-India,Female,6.99,27.72,65.29,99
+115,2019,July-September,Andhra Pradesh,Person,6.45,31.7,61.84,28
+116,2019,July-September,Assam,Person,6.75,25.69,67.56,18
+117,2019,July-September,Bihar,Person,7.2,22.79,70.02,10
+118,2019,July-September,Chhattisgarh,Person,10.83,29.8,59.36,22
+119,2019,July-September,Delhi,Person,,30.19,69.79,7
+120,2019,July-September,Gujarat,Person,5.36,42.57,52.08,24
+121,2019,July-September,Haryana,Person,5.14,43.61,51.25,6
+122,2019,July-September,Himachal Pradesh,Person,4.86,34.84,60.31,2
+123,2019,July-September,Jammu And Kashmir,Person,4.5,27.12,68.4,1
+124,2019,July-September,Jharkhand,Person,5.04,41.19,53.77,20
+125,2019,July-September,Karnataka,Person,4.18,28.61,67.22,29
+126,2019,July-September,Kerala,Person,10.95,29.57,59.48,32
+127,2019,July-September,Madhya Pradesh,Person,8.83,28.48,62.69,23
+128,2019,July-September,Maharashtra,Person,2.86,30.08,67.07,27
+129,2019,July-September,Odisha,Person,4.66,28.71,66.63,21
+130,2019,July-September,Punjab,Person,3.09,35.17,61.73,3
+131,2019,July-September,Rajasthan,Person,6.33,33.27,60.4,8
+132,2019,July-September,Tamil Nadu,Person,6.29,35.22,58.48,33
+133,2019,July-September,Telangana,Person,3.31,31.39,65.29,36
+134,2019,July-September,Uttarakhand,Person,2.83,35.46,61.73,5
+135,2019,July-September,Uttar Pradesh,Person,7.28,33.35,59.35,9
+136,2019,July-September,West Bengal,Person,2.6,34.87,62.52,19
+137,2019,July-September,All-India,Person,5.15,32.81,62.03,99
+138,2019,October-December,Andhra Pradesh,Male,4.87,31.87,63.25,28
+139,2019,October-December,Assam,Male,7.96,26.04,66,18
+140,2019,October-December,Bihar,Male,8.04,24.71,67.25,10
+141,2019,October-December,Chhattisgarh,Male,7.1,34.76,58.13,22
+142,2019,October-December,Delhi,Male,0.07,31.93,68.01,7
+143,2019,October-December,Gujarat,Male,4.93,43.63,51.43,24
+144,2019,October-December,Haryana,Male,5.33,46.28,48.38,6
+145,2019,October-December,Himachal Pradesh,Male,3.82,42.23,53.95,2
+146,2019,October-December,Jammu And Kashmir,Male,4.5,26.52,68.97,1
+147,2019,October-December,Jharkhand,Male,4.43,36.73,58.86,20
+148,2019,October-December,Karnataka,Male,4.6,29.6,65.77,29
+149,2019,October-December,Kerala,Male,10.44,35.15,54.41,32
+150,2019,October-December,Madhya Pradesh,Male,7.07,31.43,61.49,23
+151,2019,October-December,Maharashtra,Male,2.5,32.4,65.11,27
+152,2019,October-December,Odisha,Male,4.47,31.35,64.2,21
+153,2019,October-December,Punjab,Male,3.39,36.7,59.91,3
+154,2019,October-December,Rajasthan,Male,4.52,38.04,57.46,8
+155,2019,October-December,Tamil Nadu,Male,6.01,34.27,59.73,33
+156,2019,October-December,Telangana,Male,2.52,33.05,64.42,36
+157,2019,October-December,Uttarakhand,Male,1.31,36.73,61.96,5
+158,2019,October-December,Uttar Pradesh,Male,5.87,35.88,58.24,9
+159,2019,October-December,West Bengal,Male,3.03,35.91,61.07,19
+160,2019,October-December,All-India,Male,4.65,34.6,60.74,99
+161,2019,October-December,Andhra Pradesh,Female,9.55,21.58,68.88,28
+162,2019,October-December,Assam,Female,0.21,11.07,88.73,18
+163,2019,October-December,Bihar,Female,9.68,11.06,79.25,10
+164,2019,October-December,Chhattisgarh,Female,15.87,17.42,66.71,22
+165,2019,October-December,Delhi,Female,,17.46,82.54,7
+166,2019,October-December,Gujarat,Female,7.55,39.97,52.47,24
+167,2019,October-December,Haryana,Female,6.71,27.87,65.42,6
+168,2019,October-December,Himachal Pradesh,Female,13.7,20.47,65.85,2
+169,2019,October-December,Jammu And Kashmir,Female,11.5,28.56,59.94,1
+170,2019,October-December,Jharkhand,Female,7.76,33.71,58.54,20
+171,2019,October-December,Karnataka,Female,7.32,26.95,65.75,29
+172,2019,October-December,Kerala,Female,8.67,20.84,70.49,32
+173,2019,October-December,Madhya Pradesh,Female,12.89,27.72,59.38,23
+174,2019,October-December,Maharashtra,Female,3.16,25.99,70.84,27
+175,2019,October-December,Odisha,Female,4.98,19.16,75.87,21
+176,2019,October-December,Punjab,Female,1.77,23.85,74.39,3
+177,2019,October-December,Rajasthan,Female,15.24,33.27,51.5,8
+178,2019,October-December,Tamil Nadu,Female,7.55,35.85,56.6,33
+179,2019,October-December,Telangana,Female,5.84,27.83,66.33,36
+180,2019,October-December,Uttarakhand,Female,2.16,17.23,80.59,5
+181,2019,October-December,Uttar Pradesh,Female,10.54,26.37,63.1,9
+182,2019,October-December,West Bengal,Female,1.98,32.14,65.87,19
+183,2019,October-December,All-India,Female,6.74,28,65.25,99
+184,2019,October-December,Andhra Pradesh,Person,6.13,29.09,64.79,28
+185,2019,October-December,Assam,Person,6.62,23.42,69.96,18
+186,2019,October-December,Bihar,Person,8.2,23.37,68.44,10
+187,2019,October-December,Chhattisgarh,Person,9.14,30.74,60.14,22
+188,2019,October-December,Delhi,Person,0.05,29.44,70.51,7
+189,2019,October-December,Gujarat,Person,5.42,42.95,51.65,24
+190,2019,October-December,Haryana,Person,5.58,43.01,51.4,6
+191,2019,October-December,Himachal Pradesh,Person,6.27,36.83,56.88,2
+192,2019,October-December,Jammu And Kashmir,Person,5.81,26.92,67.29,1
+193,2019,October-December,Jharkhand,Person,5.08,36.13,58.79,20
+194,2019,October-December,Karnataka,Person,5.22,28.99,65.78,29
+195,2019,October-December,Kerala,Person,9.92,30.95,59.14,32
+196,2019,October-December,Madhya Pradesh,Person,8.22,30.71,61.09,23
+197,2019,October-December,Maharashtra,Person,2.66,30.9,66.45,27
+198,2019,October-December,Odisha,Person,4.57,28.97,66.49,21
+199,2019,October-December,Punjab,Person,3.09,34.38,62.55,3
+200,2019,October-December,Rajasthan,Person,6.4,37.2,56.4,8
+201,2019,October-December,Tamil Nadu,Person,6.46,34.73,58.8,33
+202,2019,October-December,Telangana,Person,3.32,31.79,64.88,36
+203,2019,October-December,Uttarakhand,Person,1.45,33.49,65.06,5
+204,2019,October-December,Uttar Pradesh,Person,6.43,34.75,58.84,9
+205,2019,October-December,West Bengal,Person,2.78,34.99,62.22,19
+206,2019,October-December,All-India,Person,5.1,33.2,61.7,99
+207,2020,January-March,Andhra Pradesh,Male,5.06,31.7,63.24,28
+208,2020,January-March,Assam,Male,5.64,26.98,67.37,18
+209,2020,January-March,Bihar,Male,7.82,23.51,68.68,10
+210,2020,January-March,Chhattisgarh,Male,6.04,31.41,62.57,22
+211,2020,January-March,Delhi,Male,0.06,30.74,69.21,7
+212,2020,January-March,Gujarat,Male,5.41,44.32,50.27,24
+213,2020,January-March,Haryana,Male,5.55,42.49,51.94,6
+214,2020,January-March,Himachal Pradesh,Male,3.38,41.06,55.58,2
+215,2020,January-March,Jammu And Kashmir,Male,4.05,29.76,66.18,1
+216,2020,January-March,Jharkhand,Male,4.7,34.77,60.53,20
+217,2020,January-March,Karnataka,Male,4.16,30.14,65.7,29
+218,2020,January-March,Kerala,Male,11.43,33.12,55.43,32
+219,2020,January-March,Madhya Pradesh,Male,5.81,32.58,61.6,23
+220,2020,January-March,Maharashtra,Male,2.83,31.91,65.27,27
+221,2020,January-March,Odisha,Male,3.06,29.66,67.28,21
+222,2020,January-March,Punjab,Male,4.07,37.25,58.67,3
+223,2020,January-March,Rajasthan,Male,3.15,41.81,55.06,8
+224,2020,January-March,Tamil Nadu,Male,5.71,34.44,59.87,33
+225,2020,January-March,Telangana,Male,3.16,30.23,66.59,36
+226,2020,January-March,Uttarakhand,Male,1.6,32.73,65.68,5
+227,2020,January-March,Uttar Pradesh,Male,6.15,34.95,58.88,9
+228,2020,January-March,West Bengal,Male,2.77,33.25,63.97,19
+229,2020,January-March,All-India,Male,4.63,34.12,61.26,99
+230,2020,January-March,Andhra Pradesh,Female,8.13,22.06,69.82,28
+231,2020,January-March,Assam,Female,1.82,10.66,87.49,18
+232,2020,January-March,Bihar,Female,7.95,14.25,77.8,10
+233,2020,January-March,Chhattisgarh,Female,9.69,16.03,74.27,22
+234,2020,January-March,Delhi,Female,,15.25,84.75,7
+235,2020,January-March,Gujarat,Female,9.59,41.69,48.71,24
+236,2020,January-March,Haryana,Female,6.78,29.01,64.21,6
+237,2020,January-March,Himachal Pradesh,Female,11.45,23,65.56,2
+238,2020,January-March,Jammu And Kashmir,Female,9.72,27.62,62.66,1
+239,2020,January-March,Jharkhand,Female,6.48,28.98,64.53,20
+240,2020,January-March,Karnataka,Female,7.25,30.87,61.86,29
+241,2020,January-March,Kerala,Female,9.11,20.56,70.34,32
+242,2020,January-March,Madhya Pradesh,Female,8.08,29.9,62.01,23
+243,2020,January-March,Maharashtra,Female,3.37,23.37,73.27,27
+244,2020,January-March,Odisha,Female,2.87,21.52,75.62,21
+245,2020,January-March,Punjab,Female,2.22,24.6,73.18,3
+246,2020,January-March,Rajasthan,Female,11.49,30.54,57.96,8
+247,2020,January-March,Tamil Nadu,Female,7.68,35.84,56.47,33
+248,2020,January-March,Telangana,Female,8.98,22.12,68.89,36
+249,2020,January-March,Uttarakhand,Female,0.7,16.51,82.81,5
+250,2020,January-March,Uttar Pradesh,Female,12.37,20.45,67.18,9
+251,2020,January-March,West Bengal,Female,2.11,25.77,72.12,19
+252,2020,January-March,All-India,Female,6.68,26.74,66.57,99
+253,2020,January-March,Andhra Pradesh,Person,5.91,29.03,65.05,28
+254,2020,January-March,Assam,Person,4.95,24.02,71.02,18
+255,2020,January-March,Bihar,Person,7.83,22.56,69.64,10
+256,2020,January-March,Chhattisgarh,Person,6.9,27.8,65.29,22
+257,2020,January-March,Delhi,Person,0.05,28.21,71.75,7
+258,2020,January-March,Gujarat,Person,6.2,43.83,49.97,24
+259,2020,January-March,Haryana,Person,5.79,39.89,54.32,6
+260,2020,January-March,Himachal Pradesh,Person,5.47,36.37,58.17,2
+261,2020,January-March,Jammu And Kashmir,Person,5.19,29.32,65.48,1
+262,2020,January-March,Jharkhand,Person,5.02,33.73,61.24,20
+263,2020,January-March,Karnataka,Person,4.89,30.31,64.8,29
+264,2020,January-March,Kerala,Person,10.73,29.36,59.87,32
+265,2020,January-March,Madhya Pradesh,Person,6.27,32.05,61.69,23
+266,2020,January-March,Maharashtra,Person,2.96,29.82,67.22,27
+267,2020,January-March,Odisha,Person,3.03,28.1,68.87,21
+268,2020,January-March,Punjab,Person,3.7,34.73,61.57,3
+269,2020,January-March,Rajasthan,Person,4.7,39.71,55.58,8
+270,2020,January-March,Tamil Nadu,Person,6.3,34.86,58.83,33
+271,2020,January-March,Telangana,Person,4.64,28.16,67.18,36
+272,2020,January-March,Uttarakhand,Person,1.43,29.73,68.83,5
+273,2020,January-March,Uttar Pradesh,Person,6.97,33.06,59.97,9
+274,2020,January-March,West Bengal,Person,2.6,31.29,66.1,19
+275,2020,January-March,All-India,Person,5.08,32.48,62.43,99
+276,2020,April-June,Andhra Pradesh,Male,5.83,24.34,69.82,28
+277,2020,April-June,Assam,Male,6.06,25.43,68.5,18
+278,2020,April-June,Bihar,Male,11.22,20.33,68.46,10
+279,2020,April-June,Chhattisgarh,Male,6.42,32.45,61.14,22
+280,2020,April-June,Delhi,Male,0.08,29.01,70.91,7
+281,2020,April-June,Gujarat,Male,5.43,43.75,50.82,24
+282,2020,April-June,Haryana,Male,4.72,41.8,53.46,6
+283,2020,April-June,Himachal Pradesh,Male,4.37,38.26,57.37,2
+284,2020,April-June,Jammu And Kashmir,Male,4.32,29.49,66.2,1
+285,2020,April-June,Jharkhand,Male,6.33,32.87,60.81,20
+286,2020,April-June,Karnataka,Male,5.8,29.34,64.85,29
+287,2020,April-June,Kerala,Male,11.26,28.18,60.54,32
+288,2020,April-June,Madhya Pradesh,Male,6.7,28.58,64.72,23
+289,2020,April-June,Maharashtra,Male,4.8,27.34,67.84,27
+290,2020,April-June,Odisha,Male,2.5,28.64,68.88,21
+291,2020,April-June,Punjab,Male,4.78,36.23,58.99,3
+292,2020,April-June,Rajasthan,Male,4.46,36.3,59.25,8
+293,2020,April-June,Tamil Nadu,Male,6.57,32.18,61.24,33
+294,2020,April-June,Telangana,Male,2.8,29.07,68.14,36
+295,2020,April-June,Uttarakhand,Male,2.61,26.69,70.7,5
+296,2020,April-June,Uttar Pradesh,Male,6.28,30.65,63.08,9
+297,2020,April-June,West Bengal,Male,3.36,29.29,67.36,19
+298,2020,April-June,All-India,Male,5.41,31.13,63.44,99
+299,2020,April-June,Andhra Pradesh,Female,7.9,23.07,69.04,28
+300,2020,April-June,Assam,Female,3.16,15.23,81.61,18
+301,2020,April-June,Bihar,Female,18.52,20.66,60.8,10
+302,2020,April-June,Chhattisgarh,Female,7.98,15.48,76.56,22
+303,2020,April-June,Delhi,Female,,10.73,89.27,7
+304,2020,April-June,Gujarat,Female,9.06,32.56,58.38,24
+305,2020,April-June,Haryana,Female,5.62,27.1,67.29,6
+306,2020,April-June,Himachal Pradesh,Female,13.11,35.4,51.49,2
+307,2020,April-June,Jammu And Kashmir,Female,12.3,18.96,68.75,1
+308,2020,April-June,Jharkhand,Female,8.56,29.54,61.89,20
+309,2020,April-June,Karnataka,Female,7.64,27.63,64.71,29
+310,2020,April-June,Kerala,Female,10.79,19.49,69.73,32
+311,2020,April-June,Madhya Pradesh,Female,9.33,28.4,62.27,23
+312,2020,April-June,Maharashtra,Female,4.87,17.28,77.82,27
+313,2020,April-June,Odisha,Female,5.15,18.2,76.66,21
+314,2020,April-June,Punjab,Female,3.67,24.49,71.84,3
+315,2020,April-June,Rajasthan,Female,14.98,25.36,59.68,8
+316,2020,April-June,Tamil Nadu,Female,8.9,33.94,57.15,33
+317,2020,April-June,Telangana,Female,6.3,21.59,72.14,36
+318,2020,April-June,Uttarakhand,Female,1.64,17.87,80.51,5
+319,2020,April-June,Uttar Pradesh,Female,10.29,19.52,70.18,9
+320,2020,April-June,West Bengal,Female,3.23,22.14,74.65,19
+321,2020,April-June,All-India,Female,7.49,24.22,68.29,99
+322,2020,April-June,Andhra Pradesh,Person,6.37,24.02,69.61,28
+323,2020,April-June,Assam,Person,5.54,23.58,70.88,18
+324,2020,April-June,Bihar,Person,11.97,20.36,67.67,10
+325,2020,April-June,Chhattisgarh,Person,6.79,28.39,64.83,22
+326,2020,April-June,Delhi,Person,0.07,26.46,73.48,7
+327,2020,April-June,Gujarat,Person,6.08,41.74,52.17,24
+328,2020,April-June,Haryana,Person,4.87,39.3,55.85,6
+329,2020,April-June,Himachal Pradesh,Person,7.27,37.3,55.41,2
+330,2020,April-June,Jammu And Kashmir,Person,5.86,27.44,66.71,1
+331,2020,April-June,Jharkhand,Person,6.71,32.29,60.98,20
+332,2020,April-June,Karnataka,Person,6.2,28.98,64.83,29
+333,2020,April-June,Kerala,Person,11.13,25.85,63.01,32
+334,2020,April-June,Madhya Pradesh,Person,7.18,28.55,64.27,23
+335,2020,April-June,Maharashtra,Person,4.81,25.08,70.11,27
+336,2020,April-June,Odisha,Person,3.08,26.37,70.55,21
+337,2020,April-June,Punjab,Person,4.58,34.02,61.41,3
+338,2020,April-June,Rajasthan,Person,6.24,34.44,59.31,8
+339,2020,April-June,Tamil Nadu,Person,7.26,32.71,60.03,33
+340,2020,April-June,Telangana,Person,3.6,27.35,69.04,36
+341,2020,April-June,Uttarakhand,Person,2.43,25.02,72.55,5
+342,2020,April-June,Uttar Pradesh,Person,6.83,29.12,64.06,9
+343,2020,April-June,West Bengal,Person,3.32,27.48,69.22,19
+344,2020,April-June,All-India,Person,5.85,29.68,64.46,99
+345,2020,July-September,Andhra Pradesh,Male,5.87,29.26,64.89,28
+346,2020,July-September,Assam,Male,4.06,25.15,70.79,18
+347,2020,July-September,Bihar,Male,11.25,22.3,66.45,10
+348,2020,July-September,Chhattisgarh,Male,7.76,30.15,62.1,22
+349,2020,July-September,Delhi,Male,0.08,30.57,69.35,7
+350,2020,July-September,Gujarat,Male,4.69,44.75,50.54,24
+351,2020,July-September,Haryana,Male,4.31,40.54,55.15,6
+352,2020,July-September,Himachal Pradesh,Male,3.45,41.87,54.7,2
+353,2020,July-September,Jammu And Kashmir,Male,4.95,30.67,64.38,1
+354,2020,July-September,Jharkhand,Male,4,38.15,57.84,20
+355,2020,July-September,Karnataka,Male,4.4,33.81,61.8,29
+356,2020,July-September,Kerala,Male,12.43,31.69,55.89,32
+357,2020,July-September,Madhya Pradesh,Male,6.21,35.2,58.61,23
+358,2020,July-September,Maharashtra,Male,4.21,31.44,64.35,27
+359,2020,July-September,Odisha,Male,6.5,29.03,64.47,21
+360,2020,July-September,Punjab,Male,5.45,41.45,53.1,3
+361,2020,July-September,Rajasthan,Male,3.72,38.55,57.75,8
+362,2020,July-September,Tamil Nadu,Male,6.72,36.17,57.1,33
+363,2020,July-September,Telangana,Male,3.97,27.95,68.07,36
+364,2020,July-September,Uttarakhand,Male,2.15,33.37,64.48,5
+365,2020,July-September,Uttar Pradesh,Male,6.21,34.83,58.97,9
+366,2020,July-September,West Bengal,Male,2.93,34.09,62.97,19
+367,2020,July-September,All-India,Male,5.24,34.34,60.39,99
+368,2020,July-September,Andhra Pradesh,Female,8.69,25.53,65.8,28
+369,2020,July-September,Assam,Female,4.33,21.45,74.21,18
+370,2020,July-September,Bihar,Female,14.65,22.1,63.25,10
+371,2020,July-September,Chhattisgarh,Female,14.88,11.37,73.75,22
+372,2020,July-September,Delhi,Female,,7.58,92.43,7
+373,2020,July-September,Gujarat,Female,5.73,43.06,51.24,24
+374,2020,July-September,Haryana,Female,5.27,28.89,65.84,6
+375,2020,July-September,Himachal Pradesh,Female,10.14,32.9,56.99,2
+376,2020,July-September,Jammu And Kashmir,Female,16.2,19.11,64.71,1
+377,2020,July-September,Jharkhand,Female,7.73,20.4,71.87,20
+378,2020,July-September,Karnataka,Female,8.04,29.89,62.07,29
+379,2020,July-September,Kerala,Female,11.43,24.07,64.5,32
+380,2020,July-September,Madhya Pradesh,Female,11.97,31.34,56.69,23
+381,2020,July-September,Maharashtra,Female,4.49,17.76,77.75,27
+382,2020,July-September,Odisha,Female,13.03,20.8,66.17,21
+383,2020,July-September,Punjab,Female,4.52,23.78,71.69,3
+384,2020,July-September,Rajasthan,Female,13.95,24.58,61.45,8
+385,2020,July-September,Tamil Nadu,Female,9.1,30.45,60.45,33
+386,2020,July-September,Telangana,Female,8.32,22.01,69.67,36
+387,2020,July-September,Uttarakhand,Female,2.86,13.07,84.08,5
+388,2020,July-September,Uttar Pradesh,Female,12.75,20.2,67.07,9
+389,2020,July-September,West Bengal,Female,3.33,24.36,72.31,19
+390,2020,July-September,All-India,Female,7.94,25.47,66.6,99
+391,2020,July-September,Andhra Pradesh,Person,6.62,28.26,65.11,28
+392,2020,July-September,Assam,Person,4.11,24.5,71.39,18
+393,2020,July-September,Bihar,Person,11.55,22.27,66.15,10
+394,2020,July-September,Chhattisgarh,Person,9.34,25.99,64.67,22
+395,2020,July-September,Delhi,Person,0.07,27.86,72.05,7
+396,2020,July-September,Gujarat,Person,4.89,44.43,50.67,24
+397,2020,July-September,Haryana,Person,4.49,38.41,57.1,6
+398,2020,July-September,Himachal Pradesh,Person,5.59,39,55.4,2
+399,2020,July-September,Jammu And Kashmir,Person,6.97,28.6,64.43,1
+400,2020,July-September,Jharkhand,Person,4.6,35.33,60.07,20
+401,2020,July-September,Karnataka,Person,5.2,32.94,61.87,29
+402,2020,July-September,Kerala,Person,12.16,29.62,58.22,32
+403,2020,July-September,Madhya Pradesh,Person,7.25,34.5,58.26,23
+404,2020,July-September,Maharashtra,Person,4.27,28.52,67.22,27
+405,2020,July-September,Odisha,Person,7.98,27.17,64.84,21
+406,2020,July-September,Punjab,Person,5.32,38.83,55.85,3
+407,2020,July-September,Rajasthan,Person,5.28,36.42,58.31,8
+408,2020,July-September,Tamil Nadu,Person,7.4,34.54,58.06,33
+409,2020,July-September,Telangana,Person,4.97,26.58,68.44,36
+410,2020,July-September,Uttarakhand,Person,2.28,29.71,68.02,5
+411,2020,July-September,Uttar Pradesh,Person,7.03,32.98,59.98,9
+412,2020,July-September,West Bengal,Person,3.03,31.6,65.37,19
+413,2020,July-September,All-India,Person,5.8,32.51,61.69,99
+414,2022,July-September,Andhra Pradesh,Male,4.69,30.78,64.53,28
+415,2022,July-September,Assam,Male,2.47,23.73,73.8,18
+416,2022,July-September,Bihar,Male,8.25,29.16,62.59,10
+417,2022,July-September,Chhattisgarh,Male,12.37,29.88,57.75,22
+418,2022,July-September,Delhi,Male,0.8,33.17,66.04,7
+419,2022,July-September,Gujarat,Male,3.22,49.38,47.41,24
+420,2022,July-September,Haryana,Male,3.82,40.58,55.6,6
+421,2022,July-September,Himachal Pradesh,Male,2.51,37.08,60.42,2
+422,2022,July-September,Jharkhand,Male,4.62,37.3,58.07,20
+423,2022,July-September,Karnataka,Male,5.57,30.27,64.17,29
+424,2022,July-September,Kerala,Male,10.68,33.36,55.94,32
+425,2022,July-September,Madhya Pradesh,Male,9.66,28.45,61.91,23
+426,2022,July-September,Maharashtra,Male,3.24,30.69,66.07,27
+427,2022,July-September,Odisha,Male,5.41,31.86,62.76,21
+428,2022,July-September,Punjab,Male,2.85,40.7,56.44,3
+429,2022,July-September,Rajasthan,Male,4.2,38.25,57.55,8
+430,2022,July-September,Tamil Nadu,Male,5.54,39.92,54.53,33
+431,2022,July-September,Telangana,Male,4.24,26.75,69.02,36
+432,2022,July-September,Uttarakhand,Male,3.77,35.22,60.99,5
+433,2022,July-September,Uttar Pradesh,Male,5.23,36.66,58.1,9
+434,2022,July-September,West Bengal,Male,2.28,34.72,63.01,19
+435,2022,July-September,Jammu And Kashmir,Male,3.82,34.92,61.24,1
+436,2022,July-September,All-India,Male,4.82,35.13,60.06,99
+437,2022,July-September,Andhra Pradesh,Female,8.1,24.9,66.99,28
+438,2022,July-September,Assam,Female,3.57,20.69,75.75,18
+439,2022,July-September,Bihar,Female,20.49,11.38,68.15,10
+440,2022,July-September,Chhattisgarh,Female,24.84,14.07,61.09,22
+441,2022,July-September,Delhi,Female,,24.38,75.62,7
+442,2022,July-September,Gujarat,Female,8.47,46.71,44.82,24
+443,2022,July-September,Haryana,Female,5.92,29.46,64.61,6
+444,2022,July-September,Himachal Pradesh,Female,15.22,19.69,65.06,2
+445,2022,July-September,Jharkhand,Female,9.24,23.29,67.48,20
+446,2022,July-September,Karnataka,Female,7.44,26.99,65.57,29
+447,2022,July-September,Kerala,Female,15.2,18.92,65.88,32
+448,2022,July-September,Madhya Pradesh,Female,13.48,24.93,61.6,23
+449,2022,July-September,Maharashtra,Female,4.11,20.41,75.45,27
+450,2022,July-September,Odisha,Female,10.25,25.51,64.23,21
+451,2022,July-September,Punjab,Female,2.71,20.45,76.84,3
+452,2022,July-September,Rajasthan,Female,23.61,21.41,55.01,8
+453,2022,July-September,Tamil Nadu,Female,9.84,36.37,53.79,33
+454,2022,July-September,Telangana,Female,3.79,28.75,67.46,36
+455,2022,July-September,Uttarakhand,Female,15.26,20.24,64.5,5
+456,2022,July-September,Uttar Pradesh,Female,10.66,32.42,56.94,9
+457,2022,July-September,West Bengal,Female,4.25,27.24,68.52,19
+458,2022,July-September,Jammu And Kashmir,Female,26.86,26.8,46.35,1
+459,2022,July-September,All-India,Female,8.85,27.09,64.07,99
+460,2022,July-September,Andhra Pradesh,Person,5.72,29.01,65.27,28
+461,2022,July-September,Assam,Person,2.68,23.15,74.16,18
+462,2022,July-September,Bihar,Person,9.73,27.01,63.24,10
+463,2022,July-September,Chhattisgarh,Person,15.86,25.46,58.68,22
+464,2022,July-September,Delhi,Person,0.72,32.34,66.94,7
+465,2022,July-September,Gujarat,Person,4.24,48.85,46.89,24
+466,2022,July-September,Haryana,Person,4.2,38.57,57.24,6
+467,2022,July-September,Himachal Pradesh,Person,5.94,32.4,61.65,2
+468,2022,July-September,Jharkhand,Person,5.41,34.92,59.69,20
+469,2022,July-September,Karnataka,Person,6,29.51,64.48,29
+470,2022,July-September,Kerala,Person,12.05,28.97,58.98,32
+471,2022,July-September,Madhya Pradesh,Person,10.36,27.79,61.83,23
+472,2022,July-September,Maharashtra,Person,3.46,28.13,68.41,27
+473,2022,July-September,Odisha,Person,6.4,30.55,63.05,21
+474,2022,July-September,Punjab,Person,2.83,36.79,60.39,3
+475,2022,July-September,Rajasthan,Person,7.65,35.27,57.09,8
+476,2022,July-September,Tamil Nadu,Person,6.67,39,54.33,33
+477,2022,July-September,Telangana,Person,4.13,27.22,68.65,36
+478,2022,July-September,Uttarakhand,Person,5.75,32.64,61.61,5
+479,2022,July-September,Uttar Pradesh,Person,5.88,36.14,57.97,9
+480,2022,July-September,West Bengal,Person,2.78,32.82,64.4,19
+510,2022,October-December,Delhi,Female,,27.06,72.95,7
+481,2022,July-September,Jammu And Kashmir,Person,8.28,33.36,58.38,1
+482,2022,July-September,All-India,Person,5.7,33.37,60.93,99
+483,2022,October-December,Andhra Pradesh,Male,5.53,29.56,64.9,28
+484,2022,October-December,Assam,Male,2.69,23.86,73.46,18
+485,2022,October-December,Bihar,Male,7.33,29.53,63.13,10
+486,2022,October-December,Chhattisgarh,Male,11.69,29.27,59.04,22
+487,2022,October-December,Delhi,Male,0.1,34.86,65.06,7
+488,2022,October-December,Gujarat,Male,3.47,49.96,46.55,24
+489,2022,October-December,Haryana,Male,3.5,39.25,57.26,6
+490,2022,October-December,Himachal Pradesh,Male,1.38,36.59,62.03,2
+491,2022,October-December,Jharkhand,Male,3.33,40.04,56.64,20
+492,2022,October-December,Karnataka,Male,5.67,31.57,62.75,29
+493,2022,October-December,Kerala,Male,11.83,33.9,54.28,32
+494,2022,October-December,Madhya Pradesh,Male,8.61,27.81,63.58,23
+495,2022,October-December,Maharashtra,Male,3.51,30.25,66.25,27
+496,2022,October-December,Odisha,Male,5.24,29.82,64.93,21
+497,2022,October-December,Punjab,Male,3.29,38.86,57.86,3
+498,2022,October-December,Rajasthan,Male,3.9,37.63,58.47,8
+499,2022,October-December,Tamil Nadu,Male,6.66,39.63,53.69,33
+500,2022,October-December,Telangana,Male,3.63,25.53,70.84,36
+501,2022,October-December,Uttarakhand,Male,3.35,38.99,57.67,5
+502,2022,October-December,Uttar Pradesh,Male,5.64,34,60.34,9
+503,2022,October-December,West Bengal,Male,2.86,34.69,62.45,19
+504,2022,October-December,Jammu And Kashmir,Male,3.48,33.34,63.16,1
+505,2022,October-December,All-India,Male,4.99,34.75,60.25,99
+506,2022,October-December,Andhra Pradesh,Female,10.99,23.87,65.15,28
+507,2022,October-December,Assam,Female,3.7,17.65,78.63,18
+508,2022,October-December,Bihar,Female,16.75,16.57,66.68,10
+509,2022,October-December,Chhattisgarh,Female,18.27,13.74,68.01,22
+511,2022,October-December,Gujarat,Female,9.87,47.67,42.49,24
+512,2022,October-December,Haryana,Female,3.57,26,70.44,6
+513,2022,October-December,Himachal Pradesh,Female,14.55,21.59,63.87,2
+514,2022,October-December,Jharkhand,Female,6.18,32.12,61.72,20
+515,2022,October-December,Karnataka,Female,8.87,23.87,67.27,29
+516,2022,October-December,Kerala,Female,14.26,20.17,65.58,32
+517,2022,October-December,Madhya Pradesh,Female,13.15,24.84,62.01,23
+518,2022,October-December,Maharashtra,Female,4.65,21.95,73.38,27
+519,2022,October-December,Odisha,Female,9.11,19.74,71.13,21
+520,2022,October-December,Punjab,Female,5.65,21.35,72.99,3
+521,2022,October-December,Rajasthan,Female,23.68,21.78,54.56,8
+522,2022,October-December,Tamil Nadu,Female,13.7,30.25,56.01,33
+523,2022,October-December,Telangana,Female,4.35,27.03,68.63,36
+524,2022,October-December,Uttarakhand,Female,11.92,15.68,72.41,5
+525,2022,October-December,Uttar Pradesh,Female,11.45,32.93,55.62,9
+526,2022,October-December,West Bengal,Female,5.86,28.58,65.56,19
+527,2022,October-December,Jammu And Kashmir,Female,18.12,28.6,53.27,1
+528,2022,October-December,All-India,Female,9.83,26.63,63.53,99
+529,2022,October-December,Andhra Pradesh,Person,7.22,27.79,65,28
+530,2022,October-December,Assam,Person,2.9,22.58,74.53,18
+531,2022,October-December,Bihar,Person,8.35,28.15,63.53,10
+532,2022,October-December,Chhattisgarh,Person,13.63,24.69,61.68,22
+533,2022,October-December,Delhi,Person,0.09,34.19,65.72,7
+534,2022,October-December,Gujarat,Person,4.71,49.53,45.78,24
+535,2022,October-December,Haryana,Person,3.52,36.73,59.76,6
+536,2022,October-December,Himachal Pradesh,Person,5.24,32.18,62.6,2
+537,2022,October-December,Jharkhand,Person,3.8,38.75,57.45,20
+538,2022,October-December,Karnataka,Person,6.46,29.69,63.86,29
+539,2022,October-December,Kerala,Person,12.56,29.78,57.65,32
+540,2022,October-December,Madhya Pradesh,Person,9.45,27.27,63.27,23
+541,2022,October-December,Maharashtra,Person,3.79,28.17,68.03,27
+542,2022,October-December,Odisha,Person,6.06,27.67,66.27,21
+543,2022,October-December,Punjab,Person,3.76,35.35,60.86,3
+544,2022,October-December,Rajasthan,Person,7.77,34.53,57.72,8
+545,2022,October-December,Tamil Nadu,Person,8.59,37.07,54.33,33
+546,2022,October-December,Telangana,Person,3.78,25.85,70.36,36
+547,2022,October-December,Uttarakhand,Person,4.67,35.41,59.9,5
+548,2022,October-December,Uttar Pradesh,Person,6.41,33.88,59.7,9
+549,2022,October-December,West Bengal,Person,3.64,33.11,63.24,19
+550,2022,October-December,Jammu And Kashmir,Person,6.04,32.51,61.46,1
+551,2022,October-December,All-India,Person,6.07,32.95,60.99,99
+552,2023,January-March,Andhra Pradesh,Male,5.68,30.94,63.38,28
+553,2023,January-March,Assam,Male,2.29,26.3,71.4,18
+554,2023,January-March,Bihar,Male,8.72,28.4,62.87,10
+555,2023,January-March,Chhattisgarh,Male,4.96,34.72,60.32,22
+556,2023,January-March,Delhi,Male,0.13,37.96,61.93,7
+557,2023,January-March,Gujarat,Male,3.43,48.29,48.27,24
+558,2023,January-March,Haryana,Male,3.4,40.19,56.4,6
+559,2023,January-March,Himachal Pradesh,Male,0.75,37.98,61.27,2
+560,2023,January-March,Jharkhand,Male,2.3,41.17,56.52,20
+561,2023,January-March,Karnataka,Male,5.31,31.93,62.78,29
+562,2023,January-March,Kerala,Male,11.24,34.32,54.44,32
+563,2023,January-March,Madhya Pradesh,Male,8.91,28.15,62.94,23
+564,2023,January-March,Maharashtra,Male,3.71,30.52,65.78,27
+565,2023,January-March,Odisha,Male,3.49,31.87,64.66,21
+566,2023,January-March,Punjab,Male,3.45,37.07,59.5,3
+567,2023,January-March,Rajasthan,Male,3.5,38.85,57.67,8
+568,2023,January-March,Tamil Nadu,Male,6.58,38.73,54.7,33
+569,2023,January-March,Telangana,Male,3.13,25.11,71.77,36
+570,2023,January-March,Uttarakhand,Male,4.58,36.67,58.75,5
+571,2023,January-March,Uttar Pradesh,Male,5.36,33.93,60.69,9
+572,2023,January-March,West Bengal,Male,2.5,33.26,64.24,19
+573,2023,January-March,Jammu And Kashmir,Male,3.67,31.45,64.89,1
+574,2023,January-March,All-India,Male,4.77,34.7,60.53,99
+575,2023,January-March,Andhra Pradesh,Female,8.24,28.16,63.58,28
+576,2023,January-March,Assam,Female,3.53,16.42,80.04,18
+577,2023,January-March,Bihar,Female,14.51,13.2,72.29,10
+578,2023,January-March,Chhattisgarh,Female,9.52,16.64,73.84,22
+579,2023,January-March,Delhi,Female,,20.71,79.3,7
+580,2023,January-March,Gujarat,Female,7.68,46.52,45.81,24
+581,2023,January-March,Haryana,Female,2.55,26.88,70.57,6
+582,2023,January-March,Himachal Pradesh,Female,9.15,28.01,62.83,2
+583,2023,January-March,Jharkhand,Female,8.44,21.03,70.53,20
+584,2023,January-March,Karnataka,Female,8.07,25.57,66.36,29
+585,2023,January-March,Kerala,Female,12.33,19.37,68.31,32
+586,2023,January-March,Madhya Pradesh,Female,13.83,23.59,62.6,23
+587,2023,January-March,Maharashtra,Female,5.41,20.9,73.7,27
+588,2023,January-March,Odisha,Female,9.54,21.34,69.12,21
+589,2023,January-March,Punjab,Female,3.25,19.69,77.05,3
+590,2023,January-March,Rajasthan,Female,22.7,25.56,51.73,8
+591,2023,January-March,Tamil Nadu,Female,14.97,32.22,52.81,33
+592,2023,January-March,Telangana,Female,4.44,27.75,67.81,36
+593,2023,January-March,Uttarakhand,Female,14.13,17.46,68.4,5
+594,2023,January-March,Uttar Pradesh,Female,12.96,29.64,57.39,9
+595,2023,January-March,West Bengal,Female,5,27.95,67.06,19
+596,2023,January-March,Jammu And Kashmir,Female,16.59,24.19,59.23,1
+597,2023,January-March,All-India,Female,9.25,26.89,63.86,99
+598,2023,January-March,Andhra Pradesh,Person,6.45,30.1,63.46,28
+599,2023,January-March,Assam,Person,2.57,24.06,73.38,18
+600,2023,January-March,Bihar,Person,9.35,26.76,63.9,10
+601,2023,January-March,Chhattisgarh,Person,6.24,29.64,64.12,22
+602,2023,January-March,Delhi,Person,0.12,35.8,64.07,7
+603,2023,January-March,Gujarat,Person,4.38,47.9,47.72,24
+604,2023,January-March,Haryana,Person,3.25,37.88,58.86,6
+605,2023,January-March,Himachal Pradesh,Person,3.28,34.99,61.74,2
+606,2023,January-March,Jharkhand,Person,3.26,38.01,58.72,20
+607,2023,January-March,Karnataka,Person,6,30.33,63.68,29
+608,2023,January-March,Kerala,Person,11.56,29.94,58.5,32
+609,2023,January-March,Madhya Pradesh,Person,9.85,27.27,62.87,23
+610,2023,January-March,Maharashtra,Person,4.13,28.15,67.72,27
+611,2023,January-March,Odisha,Person,4.84,29.52,65.65,21
+612,2023,January-March,Punjab,Person,3.41,33.47,63.12,3
+613,2023,January-March,Rajasthan,Person,7.42,36.13,56.46,8
+614,2023,January-March,Tamil Nadu,Person,8.85,36.96,54.19,33
+615,2023,January-March,Telangana,Person,3.43,25.7,70.85,36
+616,2023,January-March,Uttarakhand,Person,5.92,33.98,60.11,5
+617,2023,January-March,Uttar Pradesh,Person,6.45,33.33,60.25,9
+618,2023,January-March,West Bengal,Person,3.12,31.94,64.93,19
+619,2023,January-March,Jammu And Kashmir,Person,5.93,30.17,63.9,1
+620,2023,January-March,All-India,Person,5.78,32.94,61.28,99
+621,2023,April-June,Andhra Pradesh,Male,5.59,29.43,64.97,28
+622,2023,April-June,Assam,Male,1.86,26.65,71.5,18
+623,2023,April-June,Bihar,Male,8.85,27.24,63.89,10
+624,2023,April-June,Chhattisgarh,Male,5.28,31.79,62.93,22
+625,2023,April-June,Delhi,Male,0.16,37.33,62.52,7
+626,2023,April-June,Gujarat,Male,3.28,47.8,48.93,24
+627,2023,April-June,Haryana,Male,2.79,41.05,56.13,6
+628,2023,April-June,Himachal Pradesh,Male,1,36.39,62.61,2
+629,2023,April-June,Jharkhand,Male,2.29,41.47,56.23,20
+630,2023,April-June,Karnataka,Male,4.58,31.11,64.32,29
+631,2023,April-June,Kerala,Male,10.44,34.71,54.85,32
+632,2023,April-June,Madhya Pradesh,Male,8.25,30.26,61.47,23
+633,2023,April-June,Maharashtra,Male,3.04,31.31,65.65,27
+634,2023,April-June,Odisha,Male,4.04,31.79,64.18,21
+635,2023,April-June,Punjab,Male,4.21,34.07,61.72,3
+636,2023,April-June,Rajasthan,Male,3.12,42.12,54.77,8
+637,2023,April-June,Tamil Nadu,Male,6.05,37.27,56.68,33
+638,2023,April-June,Telangana,Male,2.07,26.63,71.32,36
+639,2023,April-June,Uttarakhand,Male,4.62,38.89,56.47,5
+640,2023,April-June,Uttar Pradesh,Male,4.98,34.18,60.83,9
+641,2023,April-June,West Bengal,Male,2.4,34.71,62.88,19
+642,2023,April-June,Jammu And Kashmir,Male,4.47,28.87,66.64,1
+643,2023,April-June,All-India,Male,4.39,34.85,60.77,99
+644,2023,April-June,Andhra Pradesh,Female,7.74,26.11,66.15,28
+645,2023,April-June,Assam,Female,7.32,17.72,74.96,18
+646,2023,April-June,Bihar,Female,21.5,15.77,62.73,10
+647,2023,April-June,Chhattisgarh,Female,7.22,18.92,73.84,22
+648,2023,April-June,Delhi,Female,,27.4,72.57,7
+649,2023,April-June,Gujarat,Female,8.54,44.32,47.14,24
+650,2023,April-June,Haryana,Female,5.78,25.77,68.46,6
+651,2023,April-June,Himachal Pradesh,Female,11.65,27.93,60.43,2
+652,2023,April-June,Jharkhand,Female,7.59,25.69,66.72,20
+653,2023,April-June,Karnataka,Female,6.23,24.72,69.04,29
+654,2023,April-June,Kerala,Female,14.18,19.1,66.72,32
+655,2023,April-June,Madhya Pradesh,Female,15.02,23.04,61.95,23
+656,2023,April-June,Maharashtra,Female,4.45,21.65,73.89,27
+657,2023,April-June,Odisha,Female,7.47,22.25,70.28,21
+658,2023,April-June,Punjab,Female,4,20.57,75.43,3
+659,2023,April-June,Rajasthan,Female,20.62,31.8,47.59,8
+660,2023,April-June,Tamil Nadu,Female,13.06,32.17,54.76,33
+661,2023,April-June,Telangana,Female,4.39,29.97,65.65,36
+662,2023,April-June,Uttarakhand,Female,12.9,14.37,72.72,5
+663,2023,April-June,Uttar Pradesh,Female,14.78,29.28,55.96,9
+664,2023,April-June,West Bengal,Female,5,27.6,67.42,19
+665,2023,April-June,Jammu And Kashmir,Female,20.62,20.39,59.01,1
+666,2023,April-June,All-India,Female,9.01,27.11,63.88,99
+667,2023,April-June,Andhra Pradesh,Person,6.23,28.44,65.33,28
+668,2023,April-June,Assam,Person,3.16,24.52,72.32,18
+669,2023,April-June,Bihar,Person,10.54,25.71,63.74,10
+670,2023,April-June,Chhattisgarh,Person,5.81,28.27,65.92,22
+671,2023,April-June,Delhi,Person,0.14,35.97,63.89,7
+672,2023,April-June,Gujarat,Person,4.5,46.98,48.51,24
+673,2023,April-June,Haryana,Person,3.29,38.52,58.21,6
+674,2023,April-June,Himachal Pradesh,Person,4.28,33.77,61.94,2
+675,2023,April-June,Jharkhand,Person,3.07,39.12,57.8,20
+676,2023,April-June,Karnataka,Person,5.03,29.36,65.61,29
+677,2023,April-June,Kerala,Person,11.54,30.12,58.34,32
+678,2023,April-June,Madhya Pradesh,Person,9.44,29,61.57,23
+679,2023,April-June,Maharashtra,Person,3.39,28.94,67.68,27
+680,2023,April-June,Odisha,Person,4.84,29.58,65.58,21
+681,2023,April-June,Punjab,Person,4.17,31.23,64.61,3
+682,2023,April-June,Rajasthan,Person,6.83,39.94,53.24,8
+683,2023,April-June,Tamil Nadu,Person,7.92,35.92,56.15,33
+684,2023,April-June,Telangana,Person,2.65,27.45,69.89,36
+685,2023,April-June,Uttarakhand,Person,5.92,35.04,59.03,5
+686,2023,April-June,Uttar Pradesh,Person,6.33,33.52,60.16,9
+687,2023,April-June,West Bengal,Person,3.04,32.96,64,19
+688,2023,April-June,Jammu And Kashmir,Person,7.58,27.24,65.18,1
+689,2023,April-June,All-India,Person,5.44,33.08,61.48,99
+690,2023,July-September,Andhra Pradesh,Male,6.7,27.93,65.37,28
+691,2023,July-September,Assam,Male,1.56,22.81,75.63,18
+692,2023,July-September,Bihar,Male,8.28,28.68,63.04,10
+693,2023,July-September,Chhattisgarh,Male,8.05,31.53,60.39,22
+694,2023,July-September,Delhi,Male,0.23,34.47,65.3,7
+695,2023,July-September,Gujarat,Male,3.24,44.68,52.08,24
+696,2023,July-September,Haryana,Male,3.77,38.28,57.95,6
+697,2023,July-September,Himachal Pradesh,Male,0.62,43,56.39,2
+698,2023,July-September,Jharkhand,Male,3.64,42.37,53.97,20
+699,2023,July-September,Karnataka,Male,5.12,32.11,62.75,29
+700,2023,July-September,Kerala,Male,8.6,34.53,56.88,32
+701,2023,July-September,Madhya Pradesh,Male,8.14,31.7,60.16,23
+702,2023,July-September,Maharashtra,Male,3.37,31.54,65.08,27
+703,2023,July-September,Odisha,Male,4.06,31.33,64.62,21
+704,2023,July-September,Punjab,Male,2.68,38.62,58.71,3
+705,2023,July-September,Rajasthan,Male,4.2,42.83,52.96,8
+706,2023,July-September,Tamil Nadu,Male,6.27,36.17,57.56,33
+707,2023,July-September,Telangana,Male,3.52,28.77,67.72,36
+708,2023,July-September,Uttarakhand,Male,4.34,33.83,61.81,5
+709,2023,July-September,Uttar Pradesh,Male,5.66,32.58,61.76,9
+710,2023,July-September,West Bengal,Male,3.05,32.99,63.97,19
+711,2023,July-September,Jammu And Kashmir,Male,4.23,30.76,65.01,1
+712,2023,July-September,All-India,Male,4.69,34.29,61.04,99
+713,2023,July-September,Andhra Pradesh,Female,11.97,23.12,64.91,28
+714,2023,July-September,Assam,Female,12.68,13.26,74.05,18
+715,2023,July-September,Bihar,Female,34.6,11.11,54.28,10
+716,2023,July-September,Chhattisgarh,Female,15.59,15.13,69.26,22
+717,2023,July-September,Delhi,Female,,11.97,88.03,7
+718,2023,July-September,Gujarat,Female,7.92,42.29,49.79,24
+719,2023,July-September,Haryana,Female,8.26,26.09,65.64,6
+720,2023,July-September,Himachal Pradesh,Female,5.23,29.67,65.1,2
+721,2023,July-September,Jharkhand,Female,17.81,26.06,56.14,20
+722,2023,July-September,Karnataka,Female,7.83,26.38,65.77,29
+723,2023,July-September,Kerala,Female,12.49,19.94,67.57,32
+724,2023,July-September,Madhya Pradesh,Female,20.31,24.91,54.78,23
+725,2023,July-September,Maharashtra,Female,5.36,24.72,69.94,27
+726,2023,July-September,Odisha,Female,9.2,26.44,64.36,21
+727,2023,July-September,Punjab,Female,1.96,22.17,75.86,3
+728,2023,July-September,Rajasthan,Female,21.93,24.95,53.12,8
+729,2023,July-September,Tamil Nadu,Female,14.07,31.69,54.26,33
+730,2023,July-September,Telangana,Female,8.21,30.45,61.33,36
+731,2023,July-September,Uttarakhand,Female,17.68,11.05,71.28,5
+732,2023,July-September,Uttar Pradesh,Female,15.33,26,58.66,9
+733,2023,July-September,West Bengal,Female,5.52,26.6,67.87,19
+734,2023,July-September,Jammu And Kashmir,Female,23.3,16.35,60.34,1
+735,2023,July-September,All-India,Female,10.77,26.28,62.96,99
+736,2023,July-September,Andhra Pradesh,Person,8.29,26.48,65.24,28
+737,2023,July-September,Assam,Person,4.33,20.42,75.24,18
+738,2023,July-September,Bihar,Person,12.33,25.97,61.69,10
+739,2023,July-September,Chhattisgarh,Person,10.18,26.91,62.93,22
+740,2023,July-September,Delhi,Person,0.2,31.37,68.43,7
+741,2023,July-September,Gujarat,Person,4.32,44.13,51.55,24
+742,2023,July-September,Haryana,Person,4.61,36.01,59.39,6
+743,2023,July-September,Himachal Pradesh,Person,1.98,39.08,58.94,2
+744,2023,July-September,Jharkhand,Person,6.27,39.34,54.38,20
+745,2023,July-September,Karnataka,Person,5.88,30.52,63.62,29
+746,2023,July-September,Kerala,Person,9.77,30.13,60.1,32
+747,2023,July-September,Madhya Pradesh,Person,10.65,30.31,59.04,23
+748,2023,July-September,Maharashtra,Person,3.86,29.88,66.28,27
+749,2023,July-September,Odisha,Person,5.36,30.1,64.55,21
+750,2023,July-September,Punjab,Person,2.54,35.29,62.2,3
+751,2023,July-September,Rajasthan,Person,8.17,38.83,53,8
+752,2023,July-September,Tamil Nadu,Person,8.36,34.97,56.68,33
+753,2023,July-September,Telangana,Person,4.84,29.24,65.92,36
+754,2023,July-September,Uttarakhand,Person,6.53,30.1,63.37,5
+755,2023,July-September,Uttar Pradesh,Person,7.12,31.59,61.29,9
+756,2023,July-September,West Bengal,Person,3.66,31.39,64.95,19
+757,2023,July-September,Jammu And Kashmir,Person,8.43,27.58,63.99,1
+758,2023,July-September,All-India,Person,6.11,32.41,61.48,99
+759,2021,October-December,Andhra Pradesh,Male,5.91,33.78,60.32,28
+760,2021,October-December,Assam,Male,1.65,24.02,74.32,18
+761,2021,October-December,Bihar,Male,10.78,31.86,57.37,10
+762,2021,October-December,Chhattisgarh,Male,8.77,30.86,60.37,22
+763,2021,October-December,Delhi,Male,1.94,32.66,65.4,7
+764,2021,October-December,Gujarat,Male,3.52,48.32,48.16,24
+765,2021,October-December,Haryana,Male,3.54,41.32,55.15,6
+766,2021,October-December,Himachal Pradesh,Male,4.96,32.43,62.6,2
+767,2021,October-December,Jharkhand,Male,3.59,39.36,57.07,20
+768,2021,October-December,Karnataka,Male,4.24,32.51,63.24,29
+769,2021,October-December,Kerala,Male,13.95,33.28,52.76,32
+770,2021,October-December,Madhya Pradesh,Male,10.54,29.65,59.79,23
+771,2021,October-December,Maharashtra,Male,2.92,34.59,62.49,27
+772,2021,October-December,Odisha,Male,7.13,33.64,59.21,21
+773,2021,October-December,Punjab,Male,3.69,43.3,53.01,3
+774,2021,October-December,Rajasthan,Male,5.67,32.6,61.75,8
+775,2021,October-December,Tamil Nadu,Male,6.13,39.79,54.1,33
+776,2021,October-December,Telangana,Male,3.87,32.48,63.65,36
+777,2021,October-December,Uttarakhand,Male,1.89,27.82,70.28,5
+778,2021,October-December,Uttar Pradesh,Male,5.65,34.1,60.25,9
+779,2021,October-December,West Bengal,Male,2.79,35.62,61.59,19
+780,2021,October-December,Jammu And Kashmir,Male,4.24,31.51,64.26,1
+781,2021,October-December,All-India,Male,5.22,35.72,59.06,99
+782,2021,October-December,Andhra Pradesh,Female,7.2,26.82,65.97,28
+783,2021,October-December,Assam,Female,3.56,12.71,83.72,18
+784,2021,October-December,Bihar,Female,24.06,12.69,63.24,10
+785,2021,October-December,Chhattisgarh,Female,17.62,17.4,64.98,22
+786,2021,October-December,Delhi,Female,,8.74,91.26,7
+787,2021,October-December,Gujarat,Female,9.29,35.42,55.29,24
+788,2021,October-December,Haryana,Female,4.37,24.19,71.45,6
+789,2021,October-December,Himachal Pradesh,Female,11.52,8.87,79.62,2
+790,2021,October-December,Jharkhand,Female,9.25,13.92,76.83,20
+791,2021,October-December,Karnataka,Female,6.05,29.34,64.63,29
+792,2021,October-December,Kerala,Female,15.78,19.48,64.75,32
+793,2021,October-December,Madhya Pradesh,Female,14.7,24.75,60.53,23
+794,2021,October-December,Maharashtra,Female,3.14,22.84,74.03,27
+795,2021,October-December,Odisha,Female,6.97,30.67,62.35,21
+796,2021,October-December,Punjab,Female,3.94,20.63,75.45,3
+797,2021,October-December,Rajasthan,Female,20.01,26.56,53.42,8
+798,2021,October-December,Tamil Nadu,Female,10.76,32.6,56.64,33
+799,2021,October-December,Telangana,Female,6.72,29.08,64.17,36
+800,2021,October-December,Uttarakhand,Female,8.45,10.43,81.11,5
+801,2021,October-December,Uttar Pradesh,Female,13.08,25.33,61.57,9
+802,2021,October-December,West Bengal,Female,2,29.87,68.13,19
+803,2021,October-December,Jammu And Kashmir,Female,25.82,19.53,54.64,1
+804,2021,October-December,All-India,Female,8.48,25.94,65.58,99
+805,2021,October-December,Andhra Pradesh,Person,6.27,31.84,61.88,28
+806,2021,October-December,Assam,Person,1.98,22.09,75.92,18
+807,2021,October-December,Bihar,Person,12.04,30.04,57.92,10
+808,2021,October-December,Chhattisgarh,Person,10.86,27.69,61.46,22
+809,2021,October-December,Delhi,Person,1.68,29.45,68.88,7
+810,2021,October-December,Gujarat,Person,4.49,46.15,49.37,24
+811,2021,October-December,Haryana,Person,3.66,38.77,57.56,6
+812,2021,October-December,Himachal Pradesh,Person,6.58,26.61,66.79,2
+813,2021,October-December,Jharkhand,Person,4.5,35.27,60.23,20
+814,2021,October-December,Karnataka,Person,4.68,31.74,63.6,29
+815,2021,October-December,Kerala,Person,14.47,29.31,56.23,32
+816,2021,October-December,Madhya Pradesh,Person,11.29,28.76,59.95,23
+817,2021,October-December,Maharashtra,Person,2.97,31.82,65.2,27
+818,2021,October-December,Odisha,Person,7.1,33.12,59.77,21
+819,2021,October-December,Punjab,Person,3.73,39.4,56.87,3
+820,2021,October-December,Rajasthan,Person,7.82,31.68,60.49,8
+821,2021,October-December,Tamil Nadu,Person,7.37,37.86,54.77,33
+822,2021,October-December,Telangana,Person,4.56,31.65,63.78,36
+823,2021,October-December,Uttarakhand,Person,3.11,24.58,72.34,5
+824,2021,October-December,Uttar Pradesh,Person,6.54,33.04,60.39,9
+825,2021,October-December,West Bengal,Person,2.61,34.31,63.07,19
+826,2021,October-December,Jammu And Kashmir,Person,8.72,29.02,62.26,1
+827,2021,October-December,All-India,Person,5.9,33.7,60.39,99
+828,2022,January-March,Andhra Pradesh,Male,5.05,33.2,61.76,28
+829,2022,January-March,Assam,Male,2.78,22.6,74.61,18
+830,2022,January-March,Bihar,Male,9.68,34.39,55.94,10
+831,2022,January-March,Chhattisgarh,Male,11.57,32.04,56.4,22
+832,2022,January-March,Delhi,Male,1.35,34.57,64.1,7
+833,2022,January-March,Gujarat,Male,4,47.87,48.14,24
+834,2022,January-March,Haryana,Male,4.21,39.06,56.73,6
+835,2022,January-March,Himachal Pradesh,Male,2.45,32.17,65.38,2
+836,2022,January-March,Jharkhand,Male,4.1,40.98,54.9,20
+837,2022,January-March,Karnataka,Male,4.44,32.46,63.09,29
+838,2022,January-March,Kerala,Male,12.79,32.99,54.21,32
+839,2022,January-March,Madhya Pradesh,Male,8.84,31.39,59.78,23
+840,2022,January-March,Maharashtra,Male,3.54,33.43,63.05,27
+841,2022,January-March,Odisha,Male,3.06,36.76,60.2,21
+842,2022,January-March,Punjab,Male,3.23,43.15,53.64,3
+843,2022,January-March,Rajasthan,Male,4.04,33.71,62.25,8
+844,2022,January-March,Tamil Nadu,Male,6.15,41.17,52.69,33
+845,2022,January-March,Telangana,Male,3.92,30.55,65.53,36
+846,2022,January-March,Uttarakhand,Male,1.3,33.54,65.16,5
+847,2022,January-March,Uttar Pradesh,Male,6.37,34.43,59.2,9
+848,2022,January-March,West Bengal,Male,2.41,35.91,61.7,19
+849,2022,January-March,Jammu And Kashmir,Male,3.18,32.61,64.21,1
+850,2022,January-March,All-India,Male,5.1,35.96,58.94,99
+851,2022,January-March,Andhra Pradesh,Female,7.22,27.86,64.92,28
+852,2022,January-March,Assam,Female,4.13,16.73,79.15,18
+853,2022,January-March,Bihar,Female,22.23,14.81,62.97,10
+854,2022,January-March,Chhattisgarh,Female,16.01,14.46,69.54,22
+855,2022,January-March,Delhi,Female,,16.45,83.57,7
+856,2022,January-March,Gujarat,Female,9.63,43.64,46.74,24
+857,2022,January-March,Haryana,Female,5.85,18.89,75.25,6
+858,2022,January-March,Himachal Pradesh,Female,16.79,9.22,74,2
+859,2022,January-March,Jharkhand,Female,5.96,21.6,72.42,20
+860,2022,January-March,Karnataka,Female,6.45,26.12,67.42,29
+861,2022,January-March,Kerala,Female,15.02,20.98,63.98,32
+862,2022,January-March,Madhya Pradesh,Female,10.35,25.35,64.29,23
+863,2022,January-March,Maharashtra,Female,2.66,23.11,74.24,27
+864,2022,January-March,Odisha,Female,6.12,31.64,62.25,21
+865,2022,January-March,Punjab,Female,4.11,21.75,74.14,3
+866,2022,January-March,Rajasthan,Female,24.05,22.71,53.23,8
+867,2022,January-March,Tamil Nadu,Female,9.33,35.07,55.61,33
+868,2022,January-March,Telangana,Female,5.44,23.21,71.37,36
+869,2022,January-March,Uttarakhand,Female,11.91,10.78,77.3,5
+870,2022,January-March,Uttar Pradesh,Female,11.27,24.62,64.11,9
+871,2022,January-March,West Bengal,Female,3.14,27.59,69.27,19
+872,2022,January-March,Jammu And Kashmir,Female,21.47,26.79,51.75,1
+873,2022,January-March,All-India,Female,7.98,26.43,65.6,99
+874,2022,January-March,Andhra Pradesh,Person,5.65,31.72,62.62,28
+875,2022,January-March,Assam,Person,3.03,21.54,75.43,18
+876,2022,January-March,Bihar,Person,10.94,32.42,56.64,10
+877,2022,January-March,Chhattisgarh,Person,12.67,27.66,59.67,22
+878,2022,January-March,Delhi,Person,1.18,32.29,66.54,7
+879,2022,January-March,Gujarat,Person,4.91,47.18,47.92,24
+880,2022,January-March,Haryana,Person,4.47,35.79,59.72,6
+881,2022,January-March,Himachal Pradesh,Person,5.94,26.61,67.46,2
+882,2022,January-March,Jharkhand,Person,4.43,37.59,57.99,20
+883,2022,January-March,Karnataka,Person,4.94,30.89,64.18,29
+884,2022,January-March,Kerala,Person,13.43,29.55,57.01,32
+885,2022,January-March,Madhya Pradesh,Person,9.1,30.31,60.59,23
+886,2022,January-March,Maharashtra,Person,3.33,30.98,65.69,27
+887,2022,January-March,Odisha,Person,3.58,35.89,60.53,21
+888,2022,January-March,Punjab,Person,3.4,39.13,57.46,3
+889,2022,January-March,Rajasthan,Person,7.03,32.06,60.92,8
+890,2022,January-March,Tamil Nadu,Person,6.99,39.55,53.46,33
+891,2022,January-March,Telangana,Person,4.29,28.76,66.95,36
+892,2022,January-March,Uttarakhand,Person,3.36,29.11,67.52,5
+893,2022,January-March,Uttar Pradesh,Person,6.93,33.31,59.75,9
+894,2022,January-March,West Bengal,Person,2.59,33.91,63.5,19
+895,2022,January-March,Jammu And Kashmir,Person,6.84,31.43,61.72,1
+896,2022,January-March,All-India,Person,5.7,33.98,60.33,99
+897,2022,April-June,Andhra Pradesh,Male,5.95,31.69,62.35,28
+898,2022,April-June,Assam,Male,2.23,22.25,75.52,18
+899,2022,April-June,Bihar,Male,8.92,34.44,56.64,10
+900,2022,April-June,Chhattisgarh,Male,10.83,33.88,55.28,22
+901,2022,April-June,Delhi,Male,1.15,35.19,63.67,7
+902,2022,April-June,Gujarat,Male,3.65,49.63,46.73,24
+903,2022,April-June,Haryana,Male,4.07,40.41,55.52,6
+904,2022,April-June,Himachal Pradesh,Male,2.53,34.44,63.04,2
+905,2022,April-June,Jharkhand,Male,3.36,40.39,56.24,20
+906,2022,April-June,Karnataka,Male,4.86,32.29,62.85,29
+907,2022,April-June,Kerala,Male,13.06,32.37,54.56,32
+908,2022,April-June,Madhya Pradesh,Male,7.23,30.33,62.45,23
+909,2022,April-June,Maharashtra,Male,4,31.41,64.58,27
+910,2022,April-June,Odisha,Male,3.38,35.94,60.67,21
+911,2022,April-June,Punjab,Male,3.04,44.55,52.41,3
+912,2022,April-June,Rajasthan,Male,3.61,35.04,61.35,8
+913,2022,April-June,Tamil Nadu,Male,6.12,41.21,52.67,33
+914,2022,April-June,Telangana,Male,4.72,28.38,66.92,36
+915,2022,April-June,Uttarakhand,Male,2.61,33.76,63.63,5
+916,2022,April-June,Uttar Pradesh,Male,6.05,36.14,57.79,9
+917,2022,April-June,West Bengal,Male,2.52,35.31,62.16,19
+918,2022,April-June,Jammu And Kashmir,Male,3.68,35.67,60.63,1
+919,2022,April-June,All-India,Male,5.04,35.92,59.02,99
+920,2022,April-June,Andhra Pradesh,Female,7.08,28.4,64.52,28
+921,2022,April-June,Assam,Female,3.49,19.24,77.27,18
+922,2022,April-June,Bihar,Female,22.13,10.7,67.19,10
+923,2022,April-June,Chhattisgarh,Female,17.44,16.52,66.05,22
+924,2022,April-June,Delhi,Female,0,18.66,81.34,7
+925,2022,April-June,Gujarat,Female,8.46,46.46,45.08,24
+926,2022,April-June,Haryana,Female,4.54,27.06,68.4,6
+927,2022,April-June,Himachal Pradesh,Female,15.18,12.96,71.87,2
+928,2022,April-June,Jharkhand,Female,5.63,19.83,74.55,20
+929,2022,April-June,Karnataka,Female,6.7,26.12,67.19,29
+930,2022,April-June,Kerala,Female,14.81,19.01,66.17,32
+931,2022,April-June,Madhya Pradesh,Female,10.71,24.2,65.09,23
+932,2022,April-June,Maharashtra,Female,3.78,21.75,74.48,27
+933,2022,April-June,Odisha,Female,7.32,27.32,65.36,21
+934,2022,April-June,Punjab,Female,4.05,19.29,76.67,3
+935,2022,April-June,Rajasthan,Female,22.71,20.93,56.36,8
+936,2022,April-June,Tamil Nadu,Female,11.43,34.58,53.98,33
+937,2022,April-June,Telangana,Female,5,27.69,67.31,36
+938,2022,April-June,Uttarakhand,Female,10.17,17.27,72.54,5
+939,2022,April-June,Uttar Pradesh,Female,8.32,32.45,59.26,9
+940,2022,April-June,West Bengal,Female,2.83,26.14,71.03,19
+941,2022,April-June,Jammu And Kashmir,Female,23.96,26.46,49.57,1
+942,2022,April-June,All-India,Female,8.22,26.84,64.93,99
+943,2022,April-June,Andhra Pradesh,Person,6.28,30.74,62.99,28
+944,2022,April-June,Assam,Person,2.46,21.69,75.85,18
+945,2022,April-June,Bihar,Person,10.37,31.84,57.78,10
+946,2022,April-June,Chhattisgarh,Person,12.55,29.37,58.08,22
+947,2022,April-June,Delhi,Person,1.02,33.31,65.68,7
+948,2022,April-June,Gujarat,Person,4.5,49.07,46.44,24
+949,2022,April-June,Haryana,Person,4.16,37.82,58.03,6
+950,2022,April-June,Himachal Pradesh,Person,5.66,29.13,65.2,2
+951,2022,April-June,Jharkhand,Person,3.76,36.86,59.39,20
+952,2022,April-June,Karnataka,Person,5.27,30.9,63.83,29
+953,2022,April-June,Kerala,Person,13.56,28.54,57.9,32
+954,2022,April-June,Madhya Pradesh,Person,7.86,29.23,62.91,23
+955,2022,April-June,Maharashtra,Person,3.95,29.09,66.96,27
+956,2022,April-June,Odisha,Person,4.1,34.37,61.53,21
+957,2022,April-June,Punjab,Person,3.24,39.71,57.04,3
+958,2022,April-June,Rajasthan,Person,6.92,32.61,60.49,8
+959,2022,April-June,Tamil Nadu,Person,7.57,39.41,53.02,33
+960,2022,April-June,Telangana,Person,4.78,28.22,66.98,36
+961,2022,April-June,Uttarakhand,Person,4.01,30.72,65.28,5
+962,2022,April-June,Uttar Pradesh,Person,6.32,35.69,57.98,9
+963,2022,April-June,West Bengal,Person,2.59,33.08,64.31,19
+964,2022,April-June,Jammu And Kashmir,Person,7.83,33.8,58.39,1
+965,2022,April-June,All-India,Person,5.71,33.99,60.29,99
+966,2022,July-September,Delhi,Female,0,24.38,75.62,7
+967,2022,October-December,Delhi,Female,0,27.06,72.95,7
+968,2021,April-June,Andhra Pradesh,Male,6.59,30.96,62.44,28
+969,2021,April-June,Assam,Male,2.8,21.01,76.21,18
+970,2021,April-June,Bihar,Male,10.82,25.59,63.58,10
+971,2021,April-June,Chhattisgarh,Male,4.82,25.9,69.31,22
+972,2021,April-June,Delhi,Male,,27.65,72.33,7
+973,2021,April-June,Gujarat,Male,3.22,44.55,52.21,24
+974,2021,April-June,Haryana,Male,3.79,41.25,54.96,6
+975,2021,April-June,Himachal Pradesh,Male,3.28,41.24,55.49,2
+976,2021,April-June,Jharkhand,Male,3.14,37.11,59.73,20
+977,2021,April-June,Karnataka,Male,4.04,29.16,66.8,29
+978,2021,April-June,Kerala,Male,13.45,28.37,58.18,32
+979,2021,April-June,Madhya Pradesh,Male,10.31,31.21,58.49,23
+980,2021,April-June,Maharashtra,Male,3.55,34.46,61.99,27
+981,2021,April-June,Odisha,Male,9.87,26.91,63.2,21
+982,2021,April-June,Punjab,Male,3.93,38.94,57.15,3
+983,2021,April-June,Rajasthan,Male,5.41,33.2,61.39,8
+984,2021,April-June,Tamil Nadu,Male,6.22,35.99,57.8,33
+985,2021,April-June,Telangana,Male,3.41,31.41,65.18,36
+986,2021,April-June,Uttarakhand,Male,1.91,29.42,68.67,5
+987,2021,April-June,Uttar Pradesh,Male,6.73,30.31,62.94,9
+988,2021,April-June,West Bengal,Male,2.9,33.36,63.74,19
+989,2021,April-June,Jammu And Kashmir,Male,4.85,31.61,63.53,1
+990,2021,April-June,All-India,Male,5.27,33.03,61.71,99
+991,2021,April-June,Andhra Pradesh,Female,6.32,23.84,69.83,28
+992,2021,April-June,Assam,Female,2.94,10.59,86.47,18
+993,2021,April-June,Bihar,Female,14.52,14.85,70.65,10
+994,2021,April-June,Chhattisgarh,Female,4.65,16.04,79.3,22
+995,2021,April-June,Delhi,Female,,18.17,81.84,7
+996,2021,April-June,Gujarat,Female,3.79,33.72,62.47,24
+997,2021,April-June,Haryana,Female,7.04,35.4,57.57,6
+998,2021,April-June,Himachal Pradesh,Female,18.26,29.37,52.37,2
+999,2021,April-June,Jharkhand,Female,5.7,31.24,63.06,20
+1000,2021,April-June,Karnataka,Female,7.59,33.84,58.54,29
+1001,2021,April-June,Kerala,Female,11.91,20.18,67.91,32
+1002,2021,April-June,Madhya Pradesh,Female,14.7,28.74,56.54,23
+1003,2021,April-June,Maharashtra,Female,4.69,23.55,71.76,27
+1004,2021,April-June,Odisha,Female,9.22,21.81,68.95,21
+1005,2021,April-June,Punjab,Female,4.11,22.18,73.74,3
+1006,2021,April-June,Rajasthan,Female,13.31,25.3,61.38,8
+1007,2021,April-June,Tamil Nadu,Female,10.94,26.37,62.69,33
+1008,2021,April-June,Telangana,Female,6.26,31.54,62.18,36
+1009,2021,April-June,Uttarakhand,Female,8.62,11.16,80.22,5
+1010,2021,April-June,Uttar Pradesh,Female,16.42,22.98,60.59,9
+1011,2021,April-June,West Bengal,Female,2.33,33.74,63.92,19
+1012,2021,April-June,Jammu And Kashmir,Female,14.8,21.86,63.33,1
+1013,2021,April-June,All-India,Female,7.84,26.48,65.68,99
+1014,2021,April-June,Andhra Pradesh,Person,6.52,29,64.5,28
+1015,2021,April-June,Assam,Person,2.83,19.33,77.82,18
+1016,2021,April-June,Bihar,Person,11.1,24.78,64.11,10
+1017,2021,April-June,Chhattisgarh,Person,4.79,23.89,71.32,22
+1018,2021,April-June,Delhi,Person,,26.4,73.6,7
+1019,2021,April-June,Gujarat,Person,3.32,42.71,53.98,24
+1020,2021,April-June,Haryana,Person,4.4,40.15,55.46,6
+1021,2021,April-June,Himachal Pradesh,Person,7.56,37.85,54.61,2
+1022,2021,April-June,Jharkhand,Person,3.57,36.12,60.3,20
+1023,2021,April-June,Karnataka,Person,4.93,30.33,64.75,29
+1024,2021,April-June,Kerala,Person,13,26,61.04,32
+1025,2021,April-June,Madhya Pradesh,Person,11.13,30.75,58.11,23
+1026,2021,April-June,Maharashtra,Person,3.81,32.01,64.2,27
+1027,2021,April-June,Odisha,Person,9.75,25.96,64.3,21
+1028,2021,April-June,Punjab,Person,3.96,35.87,60.17,3
+1029,2021,April-June,Rajasthan,Person,6.66,31.94,61.4,8
+1030,2021,April-June,Tamil Nadu,Person,7.52,33.36,59.12,33
+1031,2021,April-June,Telangana,Person,4.1,31.44,64.45,36
+1032,2021,April-June,Uttarakhand,Person,3.2,25.91,70.88,5
+1033,2021,April-June,Uttar Pradesh,Person,7.95,29.39,62.66,9
+1034,2021,April-June,West Bengal,Person,2.76,33.46,63.8,19
+1035,2021,April-June,Jammu And Kashmir,Person,6.61,29.89,63.51,1
+1036,2021,April-June,All-India,Person,5.8,31.67,62.55,99
+1037,2021,July-September,Andhra Pradesh,Male,6.09,32.9,61,28
+1038,2021,July-September,Assam,Male,2.9,22.7,74.4,18
+1039,2021,July-September,Bihar,Male,10.67,29.41,59.93,10
+1040,2021,July-September,Chhattisgarh,Male,8.27,29.25,62.47,22
+1041,2021,July-September,Delhi,Male,0.73,31.61,67.66,7
+1042,2021,July-September,Gujarat,Male,3.27,48.09,48.63,24
+1043,2021,July-September,Haryana,Male,3.71,41.74,54.55,6
+1044,2021,July-September,Himachal Pradesh,Male,3.02,36.31,60.67,2
+1045,2021,July-September,Jharkhand,Male,2.4,39.69,57.88,20
+1046,2021,July-September,Karnataka,Male,4.37,32,63.64,29
+1047,2021,July-September,Kerala,Male,14.51,32.94,52.57,32
+1048,2021,July-September,Madhya Pradesh,Male,9.27,32.42,58.33,23
+1049,2021,July-September,Maharashtra,Male,3.42,34.15,62.44,27
+1050,2021,July-September,Odisha,Male,6.67,30.22,63.1,21
+1051,2021,July-September,Punjab,Male,4.57,39.6,55.83,3
+1052,2021,July-September,Rajasthan,Male,5.41,35.16,59.44,8
+1053,2021,July-September,Tamil Nadu,Male,6.23,38.31,55.49,33
+1054,2021,July-September,Telangana,Male,3.37,32.95,63.69,36
+1055,2021,July-September,Uttarakhand,Male,1.81,28.83,69.38,5
+1056,2021,July-September,Uttar Pradesh,Male,5.99,32.03,61.97,9
+1057,2021,July-September,West Bengal,Male,2.92,35.07,62.01,19
+1058,2021,July-September,Jammu And Kashmir,Male,3.7,32.52,63.77,1
+1059,2021,July-September,All-India,Male,5.23,35.03,59.73,99
+1060,2021,July-September,Andhra Pradesh,Female,7.27,26.63,66.08,28
+1061,2021,July-September,Assam,Female,0.92,7.74,91.33,18
+1062,2021,July-September,Bihar,Female,12.28,17.26,70.46,10
+1063,2021,July-September,Chhattisgarh,Female,14.59,14.07,71.36,22
+1064,2021,July-September,Delhi,Female,,14.16,85.84,7
+1065,2021,July-September,Gujarat,Female,7.47,31.82,60.69,24
+1066,2021,July-September,Haryana,Female,7.01,31.26,61.72,6
+1067,2021,July-September,Himachal Pradesh,Female,20.22,19.01,60.76,2
+1068,2021,July-September,Jharkhand,Female,6.29,28.14,65.56,20
+1069,2021,July-September,Karnataka,Female,7.37,31.68,60.96,29
+1070,2021,July-September,Kerala,Female,12.82,20.31,66.88,32
+1071,2021,July-September,Madhya Pradesh,Female,13.85,27,59.16,23
+1072,2021,July-September,Maharashtra,Female,5.26,23.73,71,27
+1073,2021,July-September,Odisha,Female,7.41,20.83,71.76,21
+1074,2021,July-September,Punjab,Female,3.52,18.62,77.84,3
+1075,2021,July-September,Rajasthan,Female,15.93,30.07,53.98,8
+1076,2021,July-September,Tamil Nadu,Female,10.87,31.44,57.66,33
+1077,2021,July-September,Telangana,Female,5.92,32.28,61.81,36
+1078,2021,July-September,Uttarakhand,Female,4.99,11.77,83.24,5
+1079,2021,July-September,Uttar Pradesh,Female,15.18,25.87,58.95,9
+1080,2021,July-September,West Bengal,Female,1.42,30.25,68.3,19
+1081,2021,July-September,Jammu And Kashmir,Female,18.76,21.64,59.61,1
+1082,2021,July-September,All-India,Female,8.3,26.58,65.11,99
+1083,2021,July-September,Andhra Pradesh,Person,6.43,31.13,62.45,28
+1084,2021,July-September,Assam,Person,2.57,20.2,77.21,18
+1085,2021,July-September,Bihar,Person,10.78,28.6,60.61,10
+1086,2021,July-September,Chhattisgarh,Person,9.86,25.43,64.7,22
+1087,2021,July-September,Delhi,Person,0.63,29.27,70.11,7
+1088,2021,July-September,Gujarat,Person,3.94,45.52,50.52,24
+1089,2021,July-September,Haryana,Person,4.23,40.1,55.65,6
+1090,2021,July-September,Himachal Pradesh,Person,7.74,31.56,60.72,2
+1091,2021,July-September,Jharkhand,Person,3.08,37.67,59.23,20
+1092,2021,July-September,Karnataka,Person,5.11,31.93,62.94,29
+1093,2021,July-September,Kerala,Person,14.05,29.48,56.45,32
+1094,2021,July-September,Madhya Pradesh,Person,10.08,31.47,58.44,23
+1095,2021,July-September,Maharashtra,Person,3.84,31.76,64.38,27
+1096,2021,July-September,Odisha,Person,6.8,28.63,64.55,21
+1097,2021,July-September,Punjab,Person,4.38,35.74,59.88,3
+1098,2021,July-September,Rajasthan,Person,7.05,34.38,58.58,8
+1099,2021,July-September,Tamil Nadu,Person,7.54,36.37,56.09,33
+1100,2021,July-September,Telangana,Person,3.97,32.78,63.26,36
+1101,2021,July-September,Uttarakhand,Person,2.41,25.62,71.98,5
+1102,2021,July-September,Uttar Pradesh,Person,7.1,31.28,61.6,9
+1103,2021,July-September,West Bengal,Person,2.6,34.05,63.33,19
+1104,2021,July-September,Jammu And Kashmir,Person,6.67,30.36,62.98,1
+1105,2021,July-September,All-India,Person,5.86,33.28,60.85,99
+1106,2020,October-December,Andhra Pradesh,Male,6.71,30.3,62.98,28
+1107,2020,October-December,Assam,Male,4.25,24.2,71.57,18
+1108,2020,October-December,Bihar,Male,9.67,25.97,64.37,10
+1109,2020,October-December,Chhattisgarh,Male,6.94,32.12,60.93,22
+1110,2020,October-December,Delhi,Male,,27.43,72.58,7
+1111,2020,October-December,Gujarat,Male,4.35,43.85,51.81,24
+1112,2020,October-December,Haryana,Male,4.29,38.8,56.9,6
+1113,2020,October-December,Himachal Pradesh,Male,2.71,40.12,57.17,2
+1114,2020,October-December,Jammu And Kashmir,Male,3.36,31.41,65.23,1
+1115,2020,October-December,Jharkhand,Male,3.66,36.76,59.58,20
+1116,2020,October-December,Karnataka,Male,5.3,31.8,62.91,29
+1117,2020,October-December,Kerala,Male,12.87,31.66,55.46,32
+1118,2020,October-December,Madhya Pradesh,Male,6.87,34.75,58.39,23
+1119,2020,October-December,Maharashtra,Male,4.59,32.02,63.39,27
+1120,2020,October-December,Odisha,Male,7.78,30.06,62.16,21
+1121,2020,October-December,Punjab,Male,4.41,39.05,56.54,3
+1122,2020,October-December,Rajasthan,Male,4.66,37.06,58.28,8
+1123,2020,October-December,Tamil Nadu,Male,6.53,36.72,56.75,33
+1124,2020,October-December,Telangana,Male,3.94,28.8,67.25,36
+1125,2020,October-December,Uttarakhand,Male,2.91,33.12,63.96,5
+1126,2020,October-December,Uttar Pradesh,Male,6.65,33.18,60.15,9
+1127,2020,October-December,West Bengal,Male,2.9,34.2,62.89,19
+1128,2020,October-December,All-India,Male,5.42,33.78,60.78,99
+1129,2020,October-December,Andhra Pradesh,Female,9.78,25.62,64.59,28
+1130,2020,October-December,Assam,Female,9.11,17.63,73.25,18
+1131,2020,October-December,Bihar,Female,14.56,27.79,57.65,10
+1132,2020,October-December,Chhattisgarh,Female,9.51,13.58,76.91,22
+1133,2020,October-December,Delhi,Female,,10.73,89.27,7
+1134,2020,October-December,Gujarat,Female,6.04,37.03,56.94,24
+1135,2020,October-December,Haryana,Female,5.21,30.1,64.68,6
+1136,2020,October-December,Himachal Pradesh,Female,13.25,48.49,38.25,2
+1137,2020,October-December,Jammu And Kashmir,Female,13.39,21.29,65.32,1
+1138,2020,October-December,Jharkhand,Female,7.51,23.63,68.84,20
+1139,2020,October-December,Karnataka,Female,8.02,31.52,60.44,29
+1140,2020,October-December,Kerala,Female,13.85,25.28,60.88,32
+1141,2020,October-December,Madhya Pradesh,Female,11.19,31.06,57.75,23
+1142,2020,October-December,Maharashtra,Female,4.7,20.14,75.16,27
+1143,2020,October-December,Odisha,Female,14.01,22.92,63.07,21
+1144,2020,October-December,Punjab,Female,2.64,26.87,70.5,3
+1145,2020,October-December,Rajasthan,Female,15.6,29.04,55.36,8
+1146,2020,October-December,Tamil Nadu,Female,10.6,30.99,58.39,33
+1147,2020,October-December,Telangana,Female,8.86,28.1,63.04,36
+1148,2020,October-December,Uttarakhand,Female,3.16,12.57,84.26,5
+1149,2020,October-December,Uttar Pradesh,Female,16.37,18.52,65.11,9
+1150,2020,October-December,West Bengal,Female,3.51,25.85,70.63,19
+1151,2020,October-December,All-India,Female,8.55,26.32,65.14,99
+1152,2020,October-December,Andhra Pradesh,Person,7.53,29.05,63.41,28
+1153,2020,October-December,Assam,Person,5.11,23.04,71.86,18
+1154,2020,October-December,Bihar,Person,10.11,26.12,63.77,10
+1155,2020,October-December,Chhattisgarh,Person,7.53,27.88,64.59,22
+1156,2020,October-December,Delhi,Person,,25.49,74.5,7
+1157,2020,October-December,Gujarat,Person,4.69,42.51,52.81,24
+1158,2020,October-December,Haryana,Person,4.48,37,58.53,6
+1159,2020,October-December,Himachal Pradesh,Person,6.06,42.79,51.16,2
+1160,2020,October-December,Jammu And Kashmir,Person,5.18,29.57,65.26,1
+1161,2020,October-December,Jharkhand,Person,4.29,34.61,61.09,20
+1162,2020,October-December,Karnataka,Person,5.89,31.73,62.37,29
+1163,2020,October-December,Kerala,Person,13.13,29.94,56.94,32
+1164,2020,October-December,Madhya Pradesh,Person,7.65,34.07,58.27,23
+1165,2020,October-December,Maharashtra,Person,4.62,29.38,65.98,27
+1166,2020,October-December,Odisha,Person,9.11,28.54,62.36,21
+1167,2020,October-December,Punjab,Person,4.11,37,58.9,3
+1168,2020,October-December,Rajasthan,Person,6.32,35.84,57.83,8
+1169,2020,October-December,Tamil Nadu,Person,7.68,35.1,57.23,33
+1170,2020,October-December,Telangana,Person,5.16,28.63,66.2,36
+1171,2020,October-December,Uttarakhand,Person,2.95,29.36,67.7,5
+1172,2020,October-December,Uttar Pradesh,Person,7.8,31.45,60.74,9
+1173,2020,October-December,West Bengal,Person,3.05,32.1,64.85,19
+1174,2020,October-December,All-India,Person,6.08,32.21,61.71,99
+1175,2021,January-March,Andhra Pradesh,Male,6.7,31.27,62.04,28
+1176,2021,January-March,Assam,Male,3.95,22.8,73.25,18
+1177,2021,January-March,Bihar,Male,10.02,25.15,64.82,10
+1178,2021,January-March,Chhattisgarh,Male,3.59,32.26,64.18,22
+1179,2021,January-March,Delhi,Male,0.14,28.18,71.69,7
+1180,2021,January-March,Gujarat,Male,3.42,44.16,52.42,24
+1181,2021,January-March,Haryana,Male,3.38,42.38,54.25,6
+1182,2021,January-March,Himachal Pradesh,Male,3.47,40.74,55.79,2
+1183,2021,January-March,Jammu And Kashmir,Male,4.66,31.25,64.09,1
+1184,2021,January-March,Jharkhand,Male,3.14,38.06,58.81,20
+1185,2021,January-March,Karnataka,Male,3.89,32.53,63.62,29
+1186,2021,January-March,Kerala,Male,12.94,32.73,54.32,32
+1187,2021,January-March,Madhya Pradesh,Male,8.38,31.76,59.84,23
+1188,2021,January-March,Maharashtra,Male,4.02,33.68,62.31,27
+1189,2021,January-March,Odisha,Male,9.3,28.36,62.32,21
+1190,2021,January-March,Punjab,Male,3.86,41.19,54.95,3
+1191,2021,January-March,Rajasthan,Male,5.91,31.47,62.63,8
+1192,2021,January-March,Tamil Nadu,Male,6.41,37.2,56.38,33
+1193,2021,January-March,Telangana,Male,3.41,32.04,64.56,36
+1194,2021,January-March,Uttarakhand,Male,2,34.65,63.36,5
+1195,2021,January-March,Uttar Pradesh,Male,5.96,33.31,60.71,9
+1196,2021,January-March,West Bengal,Male,3.27,36.3,60.43,19
+1197,2021,January-March,All-India,Male,5.17,34.22,60.62,99
+1198,2021,January-March,Andhra Pradesh,Female,7.52,25.02,67.47,28
+1199,2021,January-March,Assam,Female,2.89,16.79,80.33,18
+1200,2021,January-March,Bihar,Female,17.6,20.7,61.7,10
+1201,2021,January-March,Chhattisgarh,Female,6.46,17.07,76.47,22
+1202,2021,January-March,Delhi,Female,,20.09,79.91,7
+1203,2021,January-March,Gujarat,Female,5.54,31.97,62.5,24
+1204,2021,January-March,Haryana,Female,4.74,33.96,61.31,6
+1205,2021,January-March,Himachal Pradesh,Female,16.92,43.62,39.45,2
+1206,2021,January-March,Jammu And Kashmir,Female,14.1,22.89,63,1
+1207,2021,January-March,Jharkhand,Female,5.37,27.15,67.49,20
+1208,2021,January-March,Karnataka,Female,7.34,34.83,57.84,29
+1209,2021,January-March,Kerala,Female,12.31,25.15,62.57,32
+1210,2021,January-March,Madhya Pradesh,Female,15.04,28.31,56.65,23
+1211,2021,January-March,Maharashtra,Female,4.49,19.65,75.85,27
+1212,2021,January-March,Odisha,Female,12.33,27.85,59.82,21
+1213,2021,January-March,Punjab,Female,6.63,24.47,68.89,3
+1214,2021,January-March,Rajasthan,Female,13.94,31.33,54.72,8
+1215,2021,January-March,Tamil Nadu,Female,10.89,30.25,58.86,33
+1216,2021,January-March,Telangana,Female,7.97,31.88,60.14,36
+1217,2021,January-March,Uttarakhand,Female,6.69,13.92,79.38,5
+1218,2021,January-March,Uttar Pradesh,Female,17.84,20.24,61.92,9
+1219,2021,January-March,West Bengal,Female,4.03,34.6,61.36,19
+1220,2021,January-March,All-India,Female,8.54,27.35,64.12,99
+1221,2021,January-March,Andhra Pradesh,Person,6.94,29.44,63.62,28
+1222,2021,January-March,Assam,Person,3.78,21.81,74.41,18
+1223,2021,January-March,Bihar,Person,10.62,24.79,64.59,10
+1224,2021,January-March,Chhattisgarh,Person,4.24,28.76,66.99,22
+1225,2021,January-March,Delhi,Person,0.13,27.26,72.62,7
+1226,2021,January-March,Gujarat,Person,3.84,41.76,54.4,24
+1227,2021,January-March,Haryana,Person,3.66,40.62,55.72,6
+1228,2021,January-March,Himachal Pradesh,Person,7.96,41.7,50.31,2
+1229,2021,January-March,Jammu And Kashmir,Person,6.36,29.74,63.9,1
+1230,2021,January-March,Jharkhand,Person,3.52,36.21,60.27,20
+1231,2021,January-March,Karnataka,Person,4.66,33.04,62.29,29
+1232,2021,January-March,Kerala,Person,12.76,30.59,56.66,32
+1233,2021,January-March,Madhya Pradesh,Person,9.67,31.09,59.23,23
+1234,2021,January-March,Maharashtra,Person,4.12,30.49,65.39,27
+1235,2021,January-March,Odisha,Person,9.93,28.25,61.81,21
+1236,2021,January-March,Punjab,Person,4.39,38.02,57.61,3
+1237,2021,January-March,Rajasthan,Person,7.24,31.44,61.31,8
+1238,2021,January-March,Tamil Nadu,Person,7.71,35.18,57.1,33
+1239,2021,January-March,Telangana,Person,4.53,32.01,63.49,36
+1240,2021,January-March,Uttarakhand,Person,2.88,30.76,66.35,5
+1241,2021,January-March,Uttar Pradesh,Person,7.51,31.62,60.88,9
+1242,2021,January-March,West Bengal,Person,3.45,35.88,60.64,19
+1243,2021,January-March,All-India,Person,5.89,32.74,61.37,99
+1244,2022,January-March,Delhi,Female,0,16.45,83.57,7
+1245,2019,January-March,Andhra Pradesh,Male,4.67,33.14,62.19,28
+1246,2019,January-March,Assam,Male,5.99,19.97,74.02,18
+1247,2019,January-March,Bihar,Male,8.22,23.47,68.33,10
+1248,2019,January-March,Chhattisgarh,Male,7.87,39.45,52.68,22
+1249,2019,January-March,Delhi,Male,0.32,30.82,68.85,7
+1250,2019,January-March,Gujarat,Male,4.16,47.77,48.07,24
+1251,2019,January-March,Haryana,Male,3.64,43.5,52.87,6
+1252,2019,January-March,Himachal Pradesh,Male,4.96,38.88,56.17,2
+1253,2019,January-March,Jammu And Kashmir,Male,4.53,25.85,69.61,1
+1254,2019,January-March,Jharkhand,Male,4.59,39.61,55.79,20
+1255,2019,January-March,Karnataka,Male,4.89,30.33,64.8,29
+1256,2019,January-March,Kerala,Male,12.2,33.21,54.6,32
+1257,2019,January-March,Madhya Pradesh,Male,9.51,27.05,63.45,23
+1258,2019,January-March,Maharashtra,Male,3.11,32.7,64.19,27
+1259,2019,January-March,Odisha,Male,4.58,33.92,61.5,21
+1260,2019,January-March,Punjab,Male,3.74,41.72,54.54,3
+1261,2019,January-March,Rajasthan,Male,6.42,35.26,58.33,8
+1262,2019,January-March,Tamil Nadu,Male,5.91,38.35,55.74,33
+1263,2019,January-March,Telangana,Male,2.92,30.19,66.91,36
+1264,2019,January-March,Uttarakhand,Male,4.68,37.06,58.26,5
+1265,2019,January-March,Uttar Pradesh,Male,5.41,35.37,59.22,9
+1266,2019,January-March,West Bengal,Male,3.56,38.62,57.82,19
+1267,2019,January-March,All-India,Male,4.94,35.09,59.98,99
+1268,2019,January-March,Andhra Pradesh,Female,4.91,31.53,63.55,28
+1269,2019,January-March,Assam,Female,8.07,5.6,86.35,18
+1270,2019,January-March,Bihar,Female,10.56,12.81,76.62,10
+1271,2019,January-March,Chhattisgarh,Female,13.84,22.37,63.79,22
+1272,2019,January-March,Delhi,Female,,20.91,79.09,7
+1273,2019,January-March,Gujarat,Female,9.05,37.52,53.43,24
+1274,2019,January-March,Haryana,Female,6.53,23.81,69.67,6
+1275,2019,January-March,Himachal Pradesh,Female,23.17,22.56,54.28,2
+1276,2019,January-March,Jammu And Kashmir,Female,13.11,18.11,68.78,1
+1277,2019,January-March,Jharkhand,Female,6.68,22.32,70.99,20
+1278,2019,January-March,Karnataka,Female,6.83,25.7,67.46,29
+1279,2019,January-March,Kerala,Female,8.83,24.26,66.89,32
+1280,2019,January-March,Madhya Pradesh,Female,12.99,25.65,61.38,23
+1281,2019,January-March,Maharashtra,Female,3.69,22.17,74.13,27
+1282,2019,January-March,Odisha,Female,3.19,31.14,65.67,21
+1283,2019,January-March,Punjab,Female,2.84,31.09,66.07,3
+1284,2019,January-March,Rajasthan,Female,25.68,29.64,44.7,8
+1285,2019,January-March,Tamil Nadu,Female,8.85,33.04,58.11,33
+1286,2019,January-March,Telangana,Female,6.92,31.4,61.66,36
+1287,2019,January-March,Uttarakhand,Female,4.58,21.25,74.16,5
+1288,2019,January-March,Uttar Pradesh,Female,9.45,19.95,70.59,9
+1289,2019,January-March,West Bengal,Female,1,37.06,61.94,19
+1290,2019,January-March,All-India,Female,6.87,28.11,65.01,99
+1291,2019,January-March,Andhra Pradesh,Person,4.73,32.74,62.53,28
+1292,2019,January-March,Assam,Person,6.26,18.14,75.61,18
+1293,2019,January-March,Bihar,Person,8.45,22.42,69.12,10
+1294,2019,January-March,Chhattisgarh,Person,9.34,35.23,55.42,22
+1295,2019,January-March,Delhi,Person,0.28,29.44,70.26,7
+1296,2019,January-March,Gujarat,Person,4.96,46.09,48.94,24
+1297,2019,January-March,Haryana,Person,4.14,40.07,55.79,6
+1298,2019,January-March,Himachal Pradesh,Person,8.72,35.51,55.75,2
+1299,2019,January-March,Jammu And Kashmir,Person,5.81,24.7,69.5,1
+1300,2019,January-March,Jharkhand,Person,4.92,36.95,58.13,20
+1301,2019,January-March,Karnataka,Person,5.29,29.36,65.35,29
+1302,2019,January-March,Kerala,Person,11.28,30.77,57.94,32
+1303,2019,January-March,Madhya Pradesh,Person,10.11,26.82,63.07,23
+1304,2019,January-March,Maharashtra,Person,3.23,30.37,66.38,27
+1305,2019,January-March,Odisha,Person,4.32,33.39,62.31,21
+1306,2019,January-March,Punjab,Person,3.58,39.8,56.62,3
+1307,2019,January-March,Rajasthan,Person,9.42,34.38,56.21,8
+1308,2019,January-March,Tamil Nadu,Person,6.71,36.92,56.37,33
+1309,2019,January-March,Telangana,Person,3.8,30.47,65.72,36
+1310,2019,January-March,Uttarakhand,Person,4.67,35.15,60.17,5
+1311,2019,January-March,Uttar Pradesh,Person,5.8,33.88,60.3,9
+1312,2019,January-March,West Bengal,Person,2.93,38.23,58.84,19
+1313,2019,January-March,All-India,Person,5.32,33.7,60.97,99
+1314,2018,July-September,Andhra Pradesh,Male,4.07,33.16,62.78,28
+1315,2018,July-September,Assam,Male,3.8,21.29,74.93,18
+1316,2018,July-September,Bihar,Male,6.8,24.35,68.84,10
+1317,2018,July-September,Chhattisgarh,Male,8.77,37.93,53.3,22
+1318,2018,July-September,Delhi,Male,1.19,30.7,68.1,7
+1319,2018,July-September,Gujarat,Male,5,50.28,44.72,24
+1320,2018,July-September,Haryana,Male,2.73,43.17,54.1,6
+1321,2018,July-September,Himachal Pradesh,Male,7.15,40.67,52.19,2
+1322,2018,July-September,Jammu And Kashmir,Male,5.6,29.5,64.89,1
+1323,2018,July-September,Jharkhand,Male,5.7,39.3,55.01,20
+1324,2018,July-September,Karnataka,Male,5.74,32.12,62.14,29
+1325,2018,July-September,Kerala,Male,9.93,32.91,57.16,32
+1326,2018,July-September,Madhya Pradesh,Male,8.96,30.35,60.67,23
+1327,2018,July-September,Maharashtra,Male,3.68,33.06,63.25,27
+1328,2018,July-September,Odisha,Male,6.61,31.07,62.3,21
+1329,2018,July-September,Punjab,Male,3.29,42.05,54.68,3
+1330,2018,July-September,Rajasthan,Male,6.3,37.8,55.9,8
+1331,2018,July-September,Tamil Nadu,Male,6.98,39.44,53.59,33
+1332,2018,July-September,Telangana,Male,2.89,28.38,68.73,36
+1333,2018,July-September,Uttarakhand,Male,5.98,30.85,63.18,5
+1334,2018,July-September,Uttar Pradesh,Male,5.85,32.42,61.74,9
+1335,2018,July-September,West Bengal,Male,4.27,38.03,57.71,19
+1336,2018,July-September,All-India,Male,5.24,35.3,59.47,99
+1337,2018,July-September,Andhra Pradesh,Female,6.5,31.49,62.02,28
+1338,2018,July-September,Assam,Female,7.45,10.6,81.94,18
+1339,2018,July-September,Bihar,Female,13.3,15.19,71.5,10
+1340,2018,July-September,Chhattisgarh,Female,24.69,23.87,51.43,22
+1341,2018,July-September,Delhi,Female,,12.61,87.4,7
+1342,2018,July-September,Gujarat,Female,7.1,40.2,52.7,24
+1343,2018,July-September,Haryana,Female,6.4,31.7,61.89,6
+1344,2018,July-September,Himachal Pradesh,Female,30.56,21.41,48.02,2
+1345,2018,July-September,Jammu And Kashmir,Female,13.21,25.05,61.73,1
+1346,2018,July-September,Jharkhand,Female,10.54,29.81,59.66,20
+1347,2018,July-September,Karnataka,Female,10.68,27.56,61.78,29
+1348,2018,July-September,Kerala,Female,7.1,21.67,71.24,32
+1349,2018,July-September,Madhya Pradesh,Female,9.53,30.92,59.55,23
+1350,2018,July-September,Maharashtra,Female,7.08,18.23,74.68,27
+1351,2018,July-September,Odisha,Female,9.83,24.58,65.61,21
+1352,2018,July-September,Punjab,Female,2.81,30.88,66.3,3
+1353,2018,July-September,Rajasthan,Female,23.61,26.92,49.47,8
+1354,2018,July-September,Tamil Nadu,Female,9.53,31.11,59.35,33
+1355,2018,July-September,Telangana,Female,7.91,30.61,61.49,36
+1356,2018,July-September,Uttarakhand,Female,10.32,15.68,73.99,5
+1357,2018,July-September,Uttar Pradesh,Female,9.94,19.21,70.83,9
+1358,2018,July-September,West Bengal,Female,1.87,39.67,58.45,19
+1359,2018,July-September,All-India,Female,8.1,27.89,63.99,99
+1360,2018,July-September,Andhra Pradesh,Person,4.77,32.66,62.55,28
+1361,2018,July-September,Assam,Person,4.38,19.59,76.03,18
+1362,2018,July-September,Bihar,Person,7.45,23.43,69.13,10
+1363,2018,July-September,Chhattisgarh,Person,13.39,33.84,52.79,22
+1364,2018,July-September,Delhi,Person,1.04,28.39,70.56,7
+1365,2018,July-September,Gujarat,Person,5.36,48.52,46.11,24
+1366,2018,July-September,Haryana,Person,3.29,41.41,55.29,6
+1367,2018,July-September,Himachal Pradesh,Person,12.21,36.5,51.29,2
+1368,2018,July-September,Jammu And Kashmir,Person,6.9,28.74,64.36,1
+1369,2018,July-September,Jharkhand,Person,6.47,37.79,55.75,20
+1370,2018,July-September,Karnataka,Person,6.81,31.13,62.06,29
+1371,2018,July-September,Kerala,Person,9.14,29.79,61.08,32
+1372,2018,July-September,Madhya Pradesh,Person,9.07,30.47,60.48,23
+1373,2018,July-September,Maharashtra,Person,4.37,30.04,65.58,27
+1374,2018,July-September,Odisha,Person,7.25,29.78,62.97,21
+1375,2018,July-September,Punjab,Person,3.2,39.96,56.84,3
+1376,2018,July-September,Rajasthan,Person,8.85,36.2,54.96,8
+1377,2018,July-September,Tamil Nadu,Person,7.64,37.27,55.09,33
+1378,2018,July-September,Telangana,Person,3.95,28.86,67.22,36
+1379,2018,July-September,Uttarakhand,Person,6.52,28.97,64.51,5
+1380,2018,July-September,Uttar Pradesh,Person,6.32,30.9,62.77,9
+1381,2018,July-September,West Bengal,Person,3.67,38.43,57.9,19
+1382,2018,July-September,All-India,Person,5.82,33.81,60.36,99
+1383,2018,October-December,Andhra Pradesh,Male,4.25,34.96,60.8,28
+1384,2018,October-December,Assam,Male,5.06,21.36,73.57,18
+1385,2018,October-December,Bihar,Male,8.46,22.93,68.62,10
+1386,2018,October-December,Chhattisgarh,Male,9.88,34.51,55.62,22
+1387,2018,October-December,Delhi,Male,0.91,33.43,65.67,7
+1388,2018,October-December,Gujarat,Male,4.16,49.09,46.75,24
+1389,2018,October-December,Haryana,Male,3.51,43.53,52.96,6
+1390,2018,October-December,Himachal Pradesh,Male,6.17,37.79,56.04,2
+1391,2018,October-December,Jammu And Kashmir,Male,5.13,27.63,67.24,1
+1392,2018,October-December,Jharkhand,Male,5.14,42.49,52.39,20
+1393,2018,October-December,Karnataka,Male,4.47,33.26,62.29,29
+1394,2018,October-December,Kerala,Male,10.58,34.08,55.34,32
+1395,2018,October-December,Madhya Pradesh,Male,8.71,31.22,60.06,23
+1396,2018,October-December,Maharashtra,Male,3.43,33.15,63.42,27
+1397,2018,October-December,Odisha,Male,5.36,35.74,58.91,21
+1398,2018,October-December,Punjab,Male,3.62,43.2,53.17,3
+1399,2018,October-December,Rajasthan,Male,5.94,34.95,59.11,8
+1400,2018,October-December,Tamil Nadu,Male,5.68,39.69,54.61,33
+1401,2018,October-December,Telangana,Male,2.77,28.75,68.49,36
+1402,2018,October-December,Uttarakhand,Male,6.35,34.09,59.57,5
+1403,2018,October-December,Uttar Pradesh,Male,5.93,34.44,59.61,9
+1404,2018,October-December,West Bengal,Male,3.81,38.97,57.22,19
+1405,2018,October-December,All-India,Male,4.95,35.89,59.15,99
+1406,2018,October-December,Andhra Pradesh,Female,5.07,33.1,61.83,28
+1407,2018,October-December,Assam,Female,8.26,13.49,78.27,18
+1408,2018,October-December,Bihar,Female,6.91,11.81,81.27,10
+1409,2018,October-December,Chhattisgarh,Female,21.47,21.26,57.27,22
+1410,2018,October-December,Delhi,Female,,17.65,82.36,7
+1411,2018,October-December,Gujarat,Female,11.16,35.15,53.67,24
+1412,2018,October-December,Haryana,Female,6.54,29.53,63.92,6
+1413,2018,October-December,Himachal Pradesh,Female,33.11,17.01,49.88,2
+1414,2018,October-December,Jammu And Kashmir,Female,12.09,20.74,67.17,1
+1415,2018,October-December,Jharkhand,Female,9.61,26.76,63.63,20
+1416,2018,October-December,Karnataka,Female,8.15,29.04,62.78,29
+1417,2018,October-December,Kerala,Female,7.55,21.62,70.83,32
+1418,2018,October-December,Madhya Pradesh,Female,12.04,29.2,58.75,23
+1419,2018,October-December,Maharashtra,Female,4.75,19.5,75.73,27
+1420,2018,October-December,Odisha,Female,8,31.87,60.12,21
+1421,2018,October-December,Punjab,Female,2.05,31.52,66.44,3
+1422,2018,October-December,Rajasthan,Female,23.81,30.33,45.84,8
+1423,2018,October-December,Tamil Nadu,Female,8.62,33.04,58.35,33
+1424,2018,October-December,Telangana,Female,7.55,29.21,63.24,36
+1425,2018,October-December,Uttarakhand,Female,6.32,16.57,77.12,5
+1426,2018,October-December,Uttar Pradesh,Female,8.79,22.31,68.89,9
+1427,2018,October-December,West Bengal,Female,1.94,37.02,61.02,19
+1428,2018,October-December,All-India,Female,7.46,27.88,64.67,99
+1429,2018,October-December,Andhra Pradesh,Person,4.48,34.45,61.08,28
+1430,2018,October-December,Assam,Person,5.46,20.36,74.17,18
+1431,2018,October-December,Bihar,Person,8.31,21.86,69.82,10
+1432,2018,October-December,Chhattisgarh,Person,13.26,30.65,56.1,22
+1433,2018,October-December,Delhi,Person,0.76,30.83,68.41,7
+1434,2018,October-December,Gujarat,Person,5.26,46.9,47.86,24
+1435,2018,October-December,Haryana,Person,4.02,41.14,54.84,6
+1436,2018,October-December,Himachal Pradesh,Person,11.82,33.43,54.75,2
+1437,2018,October-December,Jammu And Kashmir,Person,6.29,26.48,67.22,1
+1438,2018,October-December,Jharkhand,Person,5.83,40.07,54.1,20
+1439,2018,October-December,Karnataka,Person,5.25,32.37,62.4,29
+1440,2018,October-December,Kerala,Person,9.77,30.76,59.47,32
+1441,2018,October-December,Madhya Pradesh,Person,9.31,30.86,59.82,23
+1442,2018,October-December,Maharashtra,Person,3.71,30.19,66.11,27
+1443,2018,October-December,Odisha,Person,5.86,35.01,59.13,21
+1444,2018,October-December,Punjab,Person,3.34,41.1,55.54,3
+1445,2018,October-December,Rajasthan,Person,8.82,34.21,56.97,8
+1446,2018,October-December,Tamil Nadu,Person,6.46,37.92,55.64,33
+1447,2018,October-December,Telangana,Person,3.78,28.84,67.36,36
+1448,2018,October-December,Uttarakhand,Person,6.35,32.17,61.49,5
+1449,2018,October-December,Uttar Pradesh,Person,6.25,33.08,60.66,9
+1450,2018,October-December,West Bengal,Person,3.35,38.51,58.16,19
+1451,2018,October-December,All-India,Person,5.46,34.28,60.23,99
+1452,2022,April-June,Delhi,Female,,18.66,81.34,7
+1453,2023,October-December,Andhra Pradesh,Male,6.23,28.61,65.14,28
+1454,2023,October-December,Assam,Male,2.2,23.85,73.95,18
+1455,2023,October-December,Bihar,Male,7.24,25.28,67.47,10
+1456,2023,October-December,Chhattisgarh,Male,7.08,32.64,60.3,22
+1457,2023,October-December,Delhi,Male,0.22,30.11,69.67,7
+1458,2023,October-December,Gujarat,Male,2.35,44.63,53.04,24
+1459,2023,October-December,Haryana,Male,4,38.72,57.28,6
+1460,2023,October-December,Himachal Pradesh,Male,1.48,48.61,49.89,2
+1461,2023,October-December,Jharkhand,Male,3.09,39.44,57.48,20
+1462,2023,October-December,Karnataka,Male,4.49,31.15,64.36,29
+1463,2023,October-December,Kerala,Male,9.1,32.78,58.13,32
+1464,2023,October-December,Madhya Pradesh,Male,9.17,30.12,60.71,23
+1465,2023,October-December,Maharashtra,Male,3.45,31.47,65.09,27
+1466,2023,October-December,Odisha,Male,3.86,31.06,65.08,21
+1467,2023,October-December,Punjab,Male,3.59,39.28,57.14,3
+1468,2023,October-December,Rajasthan,Male,3.86,43.38,52.77,8
+1469,2023,October-December,Tamil Nadu,Male,5.34,35.19,59.46,33
+1470,2023,October-December,Telangana,Male,4.08,29.51,66.4,36
+1471,2023,October-December,Uttarakhand,Male,5.71,30.99,63.31,5
+1472,2023,October-December,Uttar Pradesh,Male,5.81,32.54,61.65,9
+1473,2023,October-December,West Bengal,Male,2.51,33.63,63.88,19
+1474,2023,October-December,Jammu And Kashmir,Male,4.6,32.24,63.16,1
+1475,2023,October-December,All-India,Male,4.51,33.9,61.59,99
+1476,2023,October-December,Andhra Pradesh,Female,10.14,24.92,64.94,28
+1477,2023,October-December,Assam,Female,12.7,14.6,72.71,18
+1478,2023,October-December,Bihar,Female,27.49,11.61,60.89,10
+1479,2023,October-December,Chhattisgarh,Female,13.48,15.25,71.26,22
+1480,2023,October-December,Delhi,Female,,13.71,86.31,7
+1481,2023,October-December,Gujarat,Female,6.11,40.05,53.84,24
+1482,2023,October-December,Haryana,Female,11.4,18.97,69.63,6
+1483,2023,October-December,Himachal Pradesh,Female,8.28,32.54,59.2,2
+1484,2023,October-December,Jharkhand,Female,17.22,26.04,56.73,20
+1485,2023,October-December,Karnataka,Female,7.27,28.53,64.2,29
+1486,2023,October-December,Kerala,Female,11.39,18.31,70.28,32
+1487,2023,October-December,Madhya Pradesh,Female,18.72,27.55,53.74,23
+1488,2023,October-December,Maharashtra,Female,4.98,25.62,69.41,27
+1489,2023,October-December,Odisha,Female,8.08,32.93,59.01,21
+1490,2023,October-December,Punjab,Female,4.55,20.62,74.85,3
+1491,2023,October-December,Rajasthan,Female,18.98,30.61,50.42,8
+1492,2023,October-December,Tamil Nadu,Female,12.94,30.58,56.49,33
+1493,2023,October-December,Telangana,Female,7.92,27.75,64.31,36
+1494,2023,October-December,Uttarakhand,Female,14.77,12.64,72.59,5
+1495,2023,October-December,Uttar Pradesh,Female,17.08,25.35,57.59,9
+1496,2023,October-December,West Bengal,Female,4.37,27.24,68.38,19
+1497,2023,October-December,Jammu And Kashmir,Female,24.26,19.12,56.62,1
+1498,2023,October-December,All-India,Female,10.1,26.57,63.33,99
+1499,2023,October-December,Andhra Pradesh,Person,7.44,27.47,65.09,28
+1500,2023,October-December,Assam,Person,4.83,21.54,73.62,18
+1501,2023,October-December,Bihar,Person,10.31,23.21,66.47,10
+1502,2023,October-December,Chhattisgarh,Person,8.92,27.63,63.43,22
+1503,2023,October-December,Delhi,Person,0.19,27.96,71.85,7
+1504,2023,October-December,Gujarat,Person,3.25,43.53,53.23,24
+1505,2023,October-December,Haryana,Person,5.55,34.57,59.89,6
+1506,2023,October-December,Himachal Pradesh,Person,3.31,44.29,52.4,2
+1507,2023,October-December,Jharkhand,Person,5.79,36.89,57.33,20
+1508,2023,October-December,Karnataka,Person,5.27,30.41,64.33,29
+1509,2023,October-December,Kerala,Person,9.82,28.25,61.94,32
+1510,2023,October-December,Madhya Pradesh,Person,11.43,29.51,59.06,23
+1511,2023,October-December,Maharashtra,Person,3.84,30.01,66.15,27
+1512,2023,October-December,Odisha,Person,4.97,31.55,63.48,21
+1513,2023,October-December,Punjab,Person,3.78,35.56,60.67,3
+1514,2023,October-December,Rajasthan,Person,7.44,40.34,52.21,8
+1515,2023,October-December,Tamil Nadu,Person,7.4,33.95,58.66,33
+1516,2023,October-December,Telangana,Person,5.18,29.01,65.82,36
+1517,2023,October-December,Uttarakhand,Person,7.58,27.2,65.21,5
+1518,2023,October-December,Uttar Pradesh,Person,7.59,31.4,61,9
+1519,2023,October-December,West Bengal,Person,2.99,31.98,65.03,19
+1520,2023,October-December,Jammu And Kashmir,Person,8.89,29.37,61.75,1
+1521,2023,October-December,All-India,Person,5.87,32.13,62.01,99
+1522,2024,January-March,Andhra Pradesh,Male,7.05,29.09,63.86,28
+1523,2024,January-March,Assam,Male,2.86,24.3,72.83,18
+1524,2024,January-March,Bihar,Male,6.1,26.07,67.85,10
+1525,2024,January-March,Chhattisgarh,Male,5.72,32.89,61.41,22
+1526,2024,January-March,Delhi,Male,0.17,28.42,71.41,7
+1527,2024,January-March,Gujarat,Male,2.61,45.18,52.22,24
+1528,2024,January-March,Haryana,Male,3.82,40.43,55.75,6
+1529,2024,January-March,Himachal Pradesh,Male,1.99,50.04,47.95,2
+1530,2024,January-March,Jharkhand,Male,2.79,41.15,56.03,20
+1531,2024,January-March,Karnataka,Male,4.89,30.97,64.14,29
+1532,2024,January-March,Kerala,Male,9.53,31.29,59.2,32
+1533,2024,January-March,Madhya Pradesh,Male,8.82,31.46,59.74,23
+1534,2024,January-March,Maharashtra,Male,3.08,31.71,65.21,27
+1535,2024,January-March,Odisha,Male,4.46,31.91,63.64,21
+1536,2024,January-March,Punjab,Male,3.5,36.8,59.69,3
+1537,2024,January-March,Rajasthan,Male,4.56,40.53,54.92,8
+1538,2024,January-March,Tamil Nadu,Male,5.91,33.51,60.59,33
+1539,2024,January-March,Telangana,Male,2.75,29.62,67.63,36
+1540,2024,January-March,Uttarakhand,Male,3.7,32.16,64.15,5
+1541,2024,January-March,Uttar Pradesh,Male,6.05,33.43,60.53,9
+1542,2024,January-March,West Bengal,Male,2.5,33.68,63.83,19
+1543,2024,January-March,Jammu And Kashmir,Male,4.05,30.89,65.07,1
+1544,2024,January-March,All-India,Male,4.52,33.76,61.72,99
+1545,2024,January-March,Andhra Pradesh,Female,10.57,25.43,64,28
+1546,2024,January-March,Assam,Female,13.74,15.61,70.67,18
+1547,2024,January-March,Bihar,Female,33.14,12.16,54.7,10
+1548,2024,January-March,Chhattisgarh,Female,10.94,13.7,75.37,22
+1549,2024,January-March,Delhi,Female,,20.04,79.97,7
+1550,2024,January-March,Gujarat,Female,6.41,41,52.59,24
+1551,2024,January-March,Haryana,Female,9.62,19.18,71.2,6
+1552,2024,January-March,Himachal Pradesh,Female,10.03,28.27,61.7,2
+1553,2024,January-March,Jharkhand,Female,12.07,26.33,61.63,20
+1554,2024,January-March,Karnataka,Female,6.27,27.26,66.46,29
+1555,2024,January-March,Kerala,Female,12.14,19.2,68.68,32
+1556,2024,January-March,Madhya Pradesh,Female,19.15,28.65,52.21,23
+1557,2024,January-March,Maharashtra,Female,4.66,25.4,69.94,27
+1558,2024,January-March,Odisha,Female,7.79,31.63,60.57,21
+1559,2024,January-March,Punjab,Female,6.03,24.21,69.79,3
+1560,2024,January-March,Rajasthan,Female,20.79,33.64,45.56,8
+1561,2024,January-March,Tamil Nadu,Female,11.15,26.61,62.24,33
+1562,2024,January-March,Telangana,Female,5.75,30.27,63.96,36
+1563,2024,January-March,Uttarakhand,Female,8.06,15.85,76.1,5
+1564,2024,January-March,Uttar Pradesh,Female,16.09,25.16,58.76,9
+1565,2024,January-March,West Bengal,Female,5.64,28.77,65.58,19
+1566,2024,January-March,Jammu And Kashmir,Female,20.52,23.04,56.43,1
+1567,2024,January-March,All-India,Female,9.83,26.73,63.44,99
+1568,2024,January-March,Andhra Pradesh,Person,8.16,27.94,63.92,28
+1569,2024,January-March,Assam,Person,5.65,22.08,72.26,18
+1570,2024,January-March,Bihar,Person,10.8,23.66,65.55,10
+1571,2024,January-March,Chhattisgarh,Person,7.11,27.77,65.12,22
+1572,2024,January-March,Delhi,Person,0.14,27.05,72.81,7
+1573,2024,January-March,Gujarat,Person,3.52,44.17,52.31,24
+1574,2024,January-March,Haryana,Person,5,36.12,58.88,6
+1575,2024,January-March,Himachal Pradesh,Person,4.2,44.07,51.72,2
+1576,2024,January-March,Jharkhand,Person,4.42,38.55,57.01,20
+1577,2024,January-March,Karnataka,Person,5.26,29.96,64.76,29
+1578,2024,January-March,Kerala,Person,10.36,27.44,62.19,32
+1579,2024,January-March,Madhya Pradesh,Person,11.24,30.8,57.97,23
+1580,2024,January-March,Maharashtra,Person,3.49,30.08,66.41,27
+1581,2024,January-March,Odisha,Person,5.34,31.83,62.82,21
+1582,2024,January-March,Punjab,Person,4.03,34.17,61.79,3
+1583,2024,January-March,Rajasthan,Person,8.61,38.81,52.57,8
+1584,2024,January-March,Tamil Nadu,Person,7.39,31.56,61.08,33
+1585,2024,January-March,Telangana,Person,3.59,29.79,66.6,36
+1586,2024,January-March,Uttarakhand,Person,4.66,28.59,66.78,5
+1587,2024,January-March,Uttar Pradesh,Person,7.58,32.17,60.27,9
+1588,2024,January-March,West Bengal,Person,3.37,32.3,64.31,19
+1589,2024,January-March,Jammu And Kashmir,Person,7.63,29.18,63.19,1
+1590,2024,January-March,All-India,Person,5.83,32.02,62.15,99
